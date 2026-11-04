@@ -1,0 +1,4320 @@
+{
+ "北京大学": {
+  "search_term": "北京大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I20231570",
+    "display_name": "Peking University",
+    "ror": "https://ror.org/02v51f717",
+    "works_count": 323253,
+    "alts": [
+     "Imperial University of Peking",
+     "Peking University",
+     "北京大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210124809",
+    "display_name": "Peking University People's Hospital",
+    "ror": "https://ror.org/035adwg89",
+    "works_count": 25851,
+    "alts": [
+     "Peking University People's Hospital",
+     "北京大学人民医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I125839683",
+    "display_name": "Beijing Institute of Technology",
+    "ror": "https://ror.org/01skt4w74",
+    "works_count": 144306,
+    "alts": [
+     "Beijing Institute of Technology",
+     "北京理工大学"
+    ]
+   }
+  ]
+ },
+ "中国人民大学": {
+  "search_term": "中国人民大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I78988378",
+    "display_name": "Renmin University of China",
+    "ror": "https://ror.org/041pakw92",
+    "works_count": 48893,
+    "alts": [
+     "People's University of China",
+     "Renmin University of China",
+     "Zhōngguó Rénmín Dàxué",
+     "中国人民大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I177933477",
+    "display_name": "Second Military Medical University",
+    "ror": "https://ror.org/04tavpn47",
+    "works_count": 51985,
+    "alts": [
+     "People's Liberation Army Naval Medical University",
+     "Second Military Medical University",
+     "中国人民解放军海军军医大学",
+     "中国人民解放军第二军医大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I151075929",
+    "display_name": "Army Medical University",
+    "ror": "https://ror.org/05w21nn13",
+    "works_count": 50645,
+    "alts": [
+     "Army Medical University",
+     "Third Military Medical University",
+     "中国人民解放军第三军医大学"
+    ]
+   }
+  ]
+ },
+ "清华大学": {
+  "search_term": "清华大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I99065089",
+    "display_name": "Tsinghua University",
+    "ror": "https://ror.org/03cve4549",
+    "works_count": 389098,
+    "alts": [
+     "Tsinghua University",
+     "清华大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405263052",
+    "display_name": "Tsinghua Shenzhen International Graduate School",
+    "ror": "https://ror.org/01vceef04",
+    "works_count": 22044,
+    "alts": [
+     "Graduate School at Shenzhen",
+     "Tsinghua SIGS",
+     "Tsinghua Shenzhen International Graduate School",
+     "清华大学深圳国际研究生院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210114105",
+    "display_name": "Tsinghua–Berkeley Shenzhen Institute",
+    "ror": "https://ror.org/02hhwwz98",
+    "works_count": 4110,
+    "alts": [
+     "Tsinghua–Berkeley Shenzhen Institute",
+     "清华大学伯克利分校深圳研究院"
+    ]
+   }
+  ]
+ },
+ "北京交通大学": {
+  "search_term": "北京交通大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I21193070",
+    "display_name": "Beijing Jiaotong University",
+    "ror": "https://ror.org/01yj56c84",
+    "works_count": 82823,
+    "alts": [
+     "Beijing Jiaotong University",
+     "Northern Jiaotong University",
+     "北京交通大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405271010",
+    "display_name": "Beijing Laboratory of Metallic Materials and Processing for Modern Transportation",
+    "ror": "https://ror.org/01q8kb644",
+    "works_count": 504,
+    "alts": [
+     "Beijing Laboratory of Metallic Materials and Processing for Modern Transportation",
+     "Beijing Laboratory of Metallic Materials and Processing for Modern Transportation, USTB",
+     "北京科技大学 新材料技术研究院 现代交通金属材料与加工技术北京实验室",
+     "现代交通金属材料与加工技术北京实验室"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280087",
+    "display_name": "Cangzhou Jiaotong College",
+    "ror": "https://ror.org/02e041w97",
+    "works_count": 201,
+    "alts": [
+     "Beijing Jiaotong University Haibin College",
+     "Cangzhou Jiaotong College",
+     "Haibin College of Beijing Jiaotong University",
+     "北京交通大学海滨学院"
+    ]
+   }
+  ]
+ },
+ "北京工业大学": {
+  "search_term": "北京工业大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I37796252",
+    "display_name": "Beijing University of Technology",
+    "ror": "https://ror.org/037b1pp87",
+    "works_count": 82515,
+    "alts": [
+     "Beijing Polytechnic University",
+     "Beijing University of Technology",
+     "Běijīng Gōngyè Dàxué",
+     "北京工业大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405281281",
+    "display_name": "Guangxi University of Technology",
+    "ror": "https://ror.org/044g8g895",
+    "works_count": 1177,
+    "alts": [
+     "Beihai College of Beihang University",
+     "Guangxi University of Technology",
+     "北京航空航天大学北海学院",
+     "北航北海学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405279150",
+    "display_name": "Gengdan Institute of Beijing University of Technology",
+    "ror": "https://ror.org/012s30w72",
+    "works_count": 126,
+    "alts": [
+     "Gengdan Institute of Beijing University of Technology",
+     "北京工业大学耿丹学院",
+     "耿丹学院"
+    ]
+   }
+  ]
+ },
+ "北京航空航天大学": {
+  "search_term": "北京航空航天大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I82880672",
+    "display_name": "Beihang University",
+    "ror": "https://ror.org/00wk2mp56",
+    "works_count": 158202,
+    "alts": [
+     "Beihang University",
+     "Beijing University of Aeronautics and Astronautics",
+     "北京航空航天大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405281281",
+    "display_name": "Guangxi University of Technology",
+    "ror": "https://ror.org/044g8g895",
+    "works_count": 1177,
+    "alts": [
+     "Beihai College of Beihang University",
+     "Guangxi University of Technology",
+     "北京航空航天大学北海学院",
+     "北航北海学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405287588",
+    "display_name": "Beihang Valencia Polytechnic Institute",
+    "ror": "https://ror.org/05m1xwr27",
+    "works_count": 5,
+    "alts": [
+     "Beihang Valencia Polytechnic Institute",
+     "Instituto Politécnico Beihang Valencia",
+     "北京航空航天大学中西智能学院"
+    ]
+   }
+  ]
+ },
+ "北京理工大学": {
+  "search_term": "北京理工大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I125839683",
+    "display_name": "Beijing Institute of Technology",
+    "ror": "https://ror.org/01skt4w74",
+    "works_count": 144306,
+    "alts": [
+     "Beijing Institute of Technology",
+     "北京理工大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4403386483",
+    "display_name": "Yanching Institute of Technology",
+    "ror": "https://ror.org/01aw5y656",
+    "works_count": 241,
+    "alts": [
+     "Yanching Institute of Technology",
+     "北京化工大学北方学院",
+     "燕京理工学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405270728",
+    "display_name": "Beijing Urban Governance Research Center",
+    "ror": "https://ror.org/017wgfe35",
+    "works_count": 18,
+    "alts": [
+     "Beijing Urban Governance Research Center",
+     "北京城市治理研究基地",
+     "北方工业大学北京城市治理研究中心"
+    ]
+   }
+  ]
+ },
+ "北京科技大学": {
+  "search_term": "北京科技大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I92403157",
+    "display_name": "University of Science and Technology Beijing",
+    "ror": "https://ror.org/02egmk993",
+    "works_count": 100928,
+    "alts": [
+     "Beijing Steel and Iron Institute",
+     "University of Science and Technology Beijing",
+     "北京科技大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I78675632",
+    "display_name": "Beijing Information Science & Technology University",
+    "ror": "https://ror.org/04xnqep60",
+    "works_count": 13962,
+    "alts": [
+     "Beijing Information Science & Technology University",
+     "北京信息科技大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405271010",
+    "display_name": "Beijing Laboratory of Metallic Materials and Processing for Modern Transportation",
+    "ror": "https://ror.org/01q8kb644",
+    "works_count": 504,
+    "alts": [
+     "Beijing Laboratory of Metallic Materials and Processing for Modern Transportation",
+     "Beijing Laboratory of Metallic Materials and Processing for Modern Transportation, USTB",
+     "北京科技大学 新材料技术研究院 现代交通金属材料与加工技术北京实验室",
+     "现代交通金属材料与加工技术北京实验室"
+    ]
+   }
+  ]
+ },
+ "北京化工大学": {
+  "search_term": "北京化工大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I75390827",
+    "display_name": "Beijing University of Chemical Technology",
+    "ror": "https://ror.org/00df5yc52",
+    "works_count": 55302,
+    "alts": [
+     "Beijing University of Chemical Technology",
+     "Běijīng Huàgōng Dàxué",
+     "北京化工大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4403386483",
+    "display_name": "Yanching Institute of Technology",
+    "ror": "https://ror.org/01aw5y656",
+    "works_count": 241,
+    "alts": [
+     "Yanching Institute of Technology",
+     "北京化工大学北方学院",
+     "燕京理工学院"
+    ]
+   }
+  ]
+ },
+ "北京邮电大学": {
+  "search_term": "北京邮电大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I139759216",
+    "display_name": "Beijing University of Posts and Telecommunications",
+    "ror": "https://ror.org/04w9fbh59",
+    "works_count": 83107,
+    "alts": [
+     "Beijing University of Posts and Telecommunications",
+     "北京邮电大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405281475",
+    "display_name": "Century College, Beijing University of Posts and Telecommunications",
+    "ror": "https://ror.org/04d0pv231",
+    "works_count": 220,
+    "alts": [
+     "Century College, Beijing University of Posts and Telecommunications",
+     "北京邮电大学世纪学院"
+    ]
+   }
+  ]
+ },
+ "中国农业大学": {
+  "search_term": "中国农业大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I52158045",
+    "display_name": "China Agricultural University",
+    "ror": "https://ror.org/04v3ywz14",
+    "works_count": 93306,
+    "alts": [
+     "China Agricultural University",
+     "Zhōngguó Nóngyè Dàxué",
+     "中国农业大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405270821",
+    "display_name": "National Center for International Research on Animal Gut Nutrition",
+    "ror": "https://ror.org/01ccc1v64",
+    "works_count": 405,
+    "alts": [
+     "National Center for International Research on Animal Gut Nutrition",
+     "动物消化道营养国际联合研究中心",
+     "南京农业大学国家动物消化道营养国际联合研究中心"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405271769",
+    "display_name": "China Agricultural University Education Foundation",
+    "ror": "https://ror.org/030m2tj68",
+    "works_count": 0,
+    "alts": [
+     "China Agricultural University Education Foundation",
+     "Da Bei Nong Group Education Foundation",
+     "中国农业大学教育基金会"
+    ]
+   }
+  ]
+ },
+ "北京林业大学": {
+  "search_term": "北京林业大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I31683504",
+    "display_name": "Beijing Forestry University",
+    "ror": "https://ror.org/04xv2pc41",
+    "works_count": 41165,
+    "alts": [
+     "Beijing Forestry University",
+     "北京林业大学"
+    ]
+   }
+  ]
+ },
+ "北京协和医学院": {
+  "search_term": "Peking Union Medical College",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I200296433",
+    "display_name": "Chinese Academy of Medical Sciences & Peking Union Medical College",
+    "ror": "https://ror.org/02drdmm93",
+    "works_count": 170778,
+    "alts": [
+     "Chinese Academy of Medical Sciences",
+     "Chinese Academy of Medical Sciences & Peking Union Medical College",
+     "Peking Union Medical College",
+     "中国医学科学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I2801228662",
+    "display_name": "Peking Union Medical College Hospital",
+    "ror": "https://ror.org/04jztag35",
+    "works_count": 45888,
+    "alts": [
+     "Beijing Xiehe Hospital",
+     "Peking Union Medical College Hospital",
+     "北京协和医院"
+    ]
+   }
+  ]
+ },
+ "北京中医药大学": {
+  "search_term": "北京中医药大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I17747738",
+    "display_name": "Beijing University of Chinese Medicine",
+    "ror": "https://ror.org/05damtm70",
+    "works_count": 32231,
+    "alts": [
+     "Beijing University of Chinese Medicine",
+     "北京中医药大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210121586",
+    "display_name": "Dongzhimen Hospital Affiliated to Beijing University of Chinese Medicine",
+    "ror": "https://ror.org/02yacz525",
+    "works_count": 6053,
+    "alts": [
+     "Dongzhimen Hospital Affiliated to Beijing University of Chinese Medicine",
+     "北京中医药大学东直门医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280222",
+    "display_name": "Beijing University of Chinese Medicine Dongfang College",
+    "ror": "https://ror.org/02kz8qv88",
+    "works_count": 51,
+    "alts": [
+     "Beijing University of Chinese Medicine Dongfang College",
+     "北京中医药大学东方学院"
+    ]
+   }
+  ]
+ },
+ "北京师范大学": {
+  "search_term": "北京师范大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I25254941",
+    "display_name": "Beijing Normal University",
+    "ror": "https://ror.org/022k4wk35",
+    "works_count": 115194,
+    "alts": [
+     "Beijing Normal University",
+     "Běijīng Shīfàn Dàxué",
+     "北京师范大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280756",
+    "display_name": "Beijing Normal University, Zhuhai",
+    "ror": "https://ror.org/03czfbj71",
+    "works_count": 7574,
+    "alts": [
+     "Beijing Normal University, Zhuhai",
+     "北京师范大学珠海分校",
+     "北京师范大学珠海教育园区"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I12615008",
+    "display_name": "Beijing Normal-Hong Kong Baptist University",
+    "ror": "https://ror.org/04snvc712",
+    "works_count": 5679,
+    "alts": [
+     "Beijing Normal University - Hong Kong Baptist University United International College",
+     "Beijing Normal-Hong Kong Baptist University",
+     "United International College",
+     "北京师范大学-香港浸会大学联合国际学院"
+    ]
+   }
+  ]
+ },
+ "首都师范大学": {
+  "search_term": "首都师范大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I96852419",
+    "display_name": "Capital Normal University",
+    "ror": "https://ror.org/005edt527",
+    "works_count": 25488,
+    "alts": [
+     "Capital Normal University",
+     "Shǒudū Shīfàn Dàxué",
+     "首都师范大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405270084",
+    "display_name": "Beijing Advanced Innovation Center for Imaging Technology",
+    "ror": "https://ror.org/0023y2x32",
+    "works_count": 872,
+    "alts": [
+     "Beijing Advanced Center for Imaging Theory and Technology",
+     "Beijing Advanced Innovation Center for Imaging Technology",
+     "Beijing Advanced Innovation Center for Imaging Technology, CNU",
+     "北京成像技术高精尖创新中心"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405278560",
+    "display_name": "Kede College of Capital Normal University",
+    "ror": "https://ror.org/0079pb979",
+    "works_count": 58,
+    "alts": [
+     "Kede College of Capital Normal University",
+     "首都师范大学科德学院"
+    ]
+   }
+  ]
+ },
+ "北京外国语大学": {
+  "search_term": "北京外国语大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I109173049",
+    "display_name": "Beijing Foreign Studies University",
+    "ror": "https://ror.org/00jdr0662",
+    "works_count": 4302,
+    "alts": [
+     "Beijing Foreign Studies University",
+     "北京外国语大学"
+    ]
+   }
+  ]
+ },
+ "中国传媒大学": {
+  "search_term": "中国传媒大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I75689368",
+    "display_name": "Communication University of China",
+    "ror": "https://ror.org/04facbs33",
+    "works_count": 11371,
+    "alts": [
+     "Beijing Broadcasting Institute",
+     "Communication University of China",
+     "中国传媒大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4403928208",
+    "display_name": "Communication University of China, Nanjing",
+    "ror": "https://ror.org/02n2tgg58",
+    "works_count": 552,
+    "alts": [
+     "Communication University of China, Nanjing",
+     "Nanguang College, Communication University of China",
+     "Nanjing Communication College",
+     "中国传媒大学南广学院"
+    ]
+   }
+  ]
+ },
+ "中央财经大学": {
+  "search_term": "中央财经大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I137867983",
+    "display_name": "Central University of Finance and Economics",
+    "ror": "https://ror.org/008e3hf02",
+    "works_count": 13999,
+    "alts": [
+     "Central Institute of Finance and Economics",
+     "Central University of Finance and Economics",
+     "中央财经大学"
+    ]
+   }
+  ]
+ },
+ "对外经济贸易大学": {
+  "search_term": "对外经济贸易大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I146563203",
+    "display_name": "University of International Business and Economics",
+    "ror": "https://ror.org/05khqpb71",
+    "works_count": 10862,
+    "alts": [
+     "University of International Business and Economics",
+     "对外经济贸易大学"
+    ]
+   }
+  ]
+ },
+ "外交学院": {
+  "search_term": "外交学院",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I195846302",
+    "display_name": "China Foreign Affairs University",
+    "ror": "https://ror.org/00kxb1h72",
+    "works_count": 1074,
+    "alts": [
+     "China Foreign Affairs University",
+     "外交学院"
+    ]
+   }
+  ]
+ },
+ "中国人民公安大学": {
+  "search_term": "中国人民公安大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I37448385",
+    "display_name": "China People's Public Security University",
+    "ror": "https://ror.org/05twya590",
+    "works_count": 4071,
+    "alts": [
+     "China People's Public Security University",
+     "People's Public Security University of China",
+     "中国人民公安大学"
+    ]
+   }
+  ]
+ },
+ "北京体育大学": {
+  "search_term": "北京体育大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I87710204",
+    "display_name": "Beijing Sport University",
+    "ror": "https://ror.org/03w0k0x36",
+    "works_count": 7501,
+    "alts": [
+     "Beijing Sport University",
+     "Beijing University of Physical Education",
+     "北京体育大学"
+    ]
+   }
+  ]
+ },
+ "中央音乐学院": {
+  "search_term": "中央音乐学院",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I2799899675",
+    "display_name": "Central Conservatory of Music",
+    "ror": "https://ror.org/01pxc4g62",
+    "works_count": 309,
+    "alts": [
+     "Central Conservatory of Music",
+     "Zhōngyāng Yīnyuè Xuéyuàn",
+     "中央音乐学院"
+    ]
+   }
+  ]
+ },
+ "中国音乐学院": {
+  "search_term": "中国音乐学院",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I2802793601",
+    "display_name": "China Conservatory",
+    "ror": "https://ror.org/052q2t745",
+    "works_count": 157,
+    "alts": [
+     "China College of Music",
+     "China Conservatory",
+     "China Conservatory of Music",
+     "Zhōngguó Yīnyuè Xuéyuàn"
+    ]
+   }
+  ]
+ },
+ "中央美术学院": {
+  "search_term": "中央美术学院",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I584858474",
+    "display_name": "Central Academy of Fine Arts",
+    "ror": "https://ror.org/00nbyv331",
+    "works_count": 402,
+    "alts": [
+     "Central Academy of Fine Arts",
+     "National Art School in Beiping",
+     "National Beijing Art College",
+     "中央美术学院"
+    ]
+   }
+  ]
+ },
+ "中央戏剧学院": {
+  "search_term": "中央戏剧学院",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I2802776907",
+    "display_name": "Central Academy of Drama",
+    "ror": "https://ror.org/03hkga097",
+    "works_count": 130,
+    "alts": [
+     "Central Academy of Drama",
+     "Central Drama Academy",
+     "Central Drama College",
+     "Zhōngyāng Xìjù Xuéyuàn"
+    ]
+   }
+  ]
+ },
+ "中央民族大学": {
+  "search_term": "中央民族大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I145897649",
+    "display_name": "Minzu University of China",
+    "ror": "https://ror.org/0044e2g62",
+    "works_count": 10989,
+    "alts": [
+     "Minzu University of China",
+     "Zhōngyāng Mínzú Dàxúe",
+     "中央民族大学"
+    ]
+   }
+  ]
+ },
+ "中国政法大学": {
+  "search_term": "中国政法大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I177955009",
+    "display_name": "China University of Political Science and Law",
+    "ror": "https://ror.org/00e49gy82",
+    "works_count": 6532,
+    "alts": [
+     "China University of Political Science and Law",
+     "Peking College of Political Science and Law",
+     "中国政法大学"
+    ]
+   }
+  ]
+ },
+ "南开大学": {
+  "search_term": "南开大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I205237279",
+    "display_name": "Nankai University",
+    "ror": "https://ror.org/01y1kjr75",
+    "works_count": 113270,
+    "alts": [
+     "Nankai University",
+     "Nánkāi Dàxué",
+     "南开大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405282143",
+    "display_name": "Nankai University Binhai College",
+    "ror": "https://ror.org/05cw5t640",
+    "works_count": 219,
+    "alts": [
+     "Nankai University Binhai College",
+     "南开大学伯苓学院",
+     "南开大学滨海学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210160657",
+    "display_name": "Yunnan Open University",
+    "ror": "https://ror.org/04egk7864",
+    "works_count": 1020,
+    "alts": [
+     "Yunnan Open University",
+     "云南开放大学"
+    ]
+   }
+  ]
+ },
+ "天津大学": {
+  "search_term": "天津大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I162868743",
+    "display_name": "Tianjin University",
+    "ror": "https://ror.org/012tb2g32",
+    "works_count": 176448,
+    "alts": [
+     "Peiyang University",
+     "Tianjin University",
+     "天津大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I5740404",
+    "display_name": "Tianjin Medical University",
+    "ror": "https://ror.org/02mh8wx89",
+    "works_count": 46844,
+    "alts": [
+     "Tianjin Medical University",
+     "Tiānjīn Yīkē Dàxué",
+     "天津医科大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I198091727",
+    "display_name": "Tiangong University",
+    "ror": "https://ror.org/00xsr9m91",
+    "works_count": 29373,
+    "alts": [
+     "Tiangong University",
+     "Tianjin Polytechnic University",
+     "天津工业大学"
+    ]
+   }
+  ]
+ },
+ "天津工业大学": {
+  "search_term": "天津工业大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I198091727",
+    "display_name": "Tiangong University",
+    "ror": "https://ror.org/00xsr9m91",
+    "works_count": 29373,
+    "alts": [
+     "Tiangong University",
+     "Tianjin Polytechnic University",
+     "天津工业大学"
+    ]
+   }
+  ]
+ },
+ "天津医科大学": {
+  "search_term": "天津医科大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I5740404",
+    "display_name": "Tianjin Medical University",
+    "ror": "https://ror.org/02mh8wx89",
+    "works_count": 46844,
+    "alts": [
+     "Tianjin Medical University",
+     "Tiānjīn Yīkē Dàxué",
+     "天津医科大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I2802534033",
+    "display_name": "Tianjin Medical University General Hospital",
+    "ror": "https://ror.org/003sav965",
+    "works_count": 19656,
+    "alts": [
+     "Tianjin Medical University General Hospital",
+     "天津医科大学总医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I2802573037",
+    "display_name": "Tianjin Medical University Cancer Institute and Hospital",
+    "ror": "https://ror.org/0152hn881",
+    "works_count": 16134,
+    "alts": [
+     "Tianjin Medical University Cancer Institute and Hospital",
+     "天津医科大学肿瘤医院"
+    ]
+   }
+  ]
+ },
+ "天津中医药大学": {
+  "search_term": "天津中医药大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I12411659",
+    "display_name": "Tianjin University of Traditional Chinese Medicine",
+    "ror": "https://ror.org/05dfcz246",
+    "works_count": 14604,
+    "alts": [
+     "Tianjin University of Traditional Chinese Medicine",
+     "天津中医药大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210130148",
+    "display_name": "First Teaching Hospital of Tianjin University of Traditional Chinese Medicine",
+    "ror": "https://ror.org/02fsmcz03",
+    "works_count": 4048,
+    "alts": [
+     "First Teaching Hospital of Tianjin University of Traditional Chinese Medicine",
+     "中国传统医药的天津大学第一附属医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210086269",
+    "display_name": "Baokang Hospital Affiliated to Tianjin University of Traditional Chinese Medicine",
+    "ror": "https://ror.org/000qx7w57",
+    "works_count": 139,
+    "alts": [
+     "Baokang Hospital Affiliated to Tianjin University of Traditional Chinese Medicine",
+     "天津中医药大学附属保康医院"
+    ]
+   }
+  ]
+ },
+ "华北电力大学": {
+  "search_term": "华北电力大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I153473198",
+    "display_name": "North China Electric Power University",
+    "ror": "https://ror.org/04qr5t414",
+    "works_count": 75144,
+    "alts": [
+     "Huáběi diànlì dàxué",
+     "North China Electric Power University",
+     "华北电力大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4387155539",
+    "display_name": "Suzhou Institute of North China Electric Power University",
+    "ror": "https://ror.org/02g5psh91",
+    "works_count": 137,
+    "alts": [
+     "Suzhou Institute of North China Electric Power University",
+     "华北电力大学苏州研究院"
+    ]
+   }
+  ]
+ },
+ "河北工业大学": {
+  "search_term": "河北工业大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I184843921",
+    "display_name": "Hebei University of Technology",
+    "ror": "https://ror.org/018hded08",
+    "works_count": 40681,
+    "alts": [
+     "Hebei University of Technology",
+     "Héběi Gōngyè Dàxué",
+     "河北工业大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405272076",
+    "display_name": "State Key Laboratory of Reliability and Intelligence of Electrical Equipment",
+    "ror": "https://ror.org/03h0f9b72",
+    "works_count": 3174,
+    "alts": [
+     "State Key Lab of Reliability and Intelligence of Electrical Equipment",
+     "State Key Laboratory of Reliability and Intelligence of Electrical Equipment",
+     "State Key Laboratory of Reliability and Intelligence of Electrical Equipment, HEBUT",
+     "河北工业大学 省部共建电工装备可靠性与智能化国家重点实验室"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405279766",
+    "display_name": "Hebei Vocational University of Industry and Technology",
+    "ror": "https://ror.org/01zahcj06",
+    "works_count": 762,
+    "alts": [
+     "Hebei College of Industry and Technology",
+     "Hebei Vocational University of Industry and Technology",
+     "河北工业职业技术大学",
+     "河北工业职业技术学院"
+    ]
+   }
+  ]
+ },
+ "山西大学": {
+  "search_term": "山西大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I181877577",
+    "display_name": "Shanxi University",
+    "ror": "https://ror.org/03y3e3s17",
+    "works_count": 37466,
+    "alts": [
+     "Shanxi University",
+     "Shānxī Dàxué",
+     "山西大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I17721919",
+    "display_name": "Shanxi Medical University",
+    "ror": "https://ror.org/0265d1010",
+    "works_count": 32703,
+    "alts": [
+     "Shanxi Medical University",
+     "山西医科大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I119868032",
+    "display_name": "Shanxi Agricultural University",
+    "ror": "https://ror.org/05e9f5362",
+    "works_count": 15336,
+    "alts": [
+     "Shanxi Agricultural University",
+     "山西农业大学"
+    ]
+   }
+  ]
+ },
+ "太原理工大学": {
+  "search_term": "太原理工大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I9086337",
+    "display_name": "Taiyuan University of Technology",
+    "ror": "https://ror.org/03kv08d37",
+    "works_count": 48334,
+    "alts": [
+     "Taiyuan University of Technology",
+     "太原理工大学"
+    ]
+   }
+  ]
+ },
+ "内蒙古大学": {
+  "search_term": "内蒙古大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I2722730",
+    "display_name": "Inner Mongolia University",
+    "ror": "https://ror.org/0106qb496",
+    "works_count": 21916,
+    "alts": [
+     "Inner Mongolia University",
+     "内蒙古大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I120379545",
+    "display_name": "Inner Mongolia Agricultural University",
+    "ror": "https://ror.org/015d0jq83",
+    "works_count": 16187,
+    "alts": [
+     "Inner Mongolia Agricultural University",
+     "Inner Mongolia Institute of Agriculture and Animal Husbandry",
+     "内蒙古农业大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I55654194",
+    "display_name": "Inner Mongolia University of Technology",
+    "ror": "https://ror.org/05564e019",
+    "works_count": 13372,
+    "alts": [
+     "Inner Mongolia University of Technology",
+     "内蒙古工业大学"
+    ]
+   }
+  ]
+ },
+ "辽宁大学": {
+  "search_term": "辽宁大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I118803816",
+    "display_name": "Liaoning University",
+    "ror": "https://ror.org/03xpwj629",
+    "works_count": 14997,
+    "alts": [
+     "Liaoning University",
+     "Liáoníng Dàxué",
+     "辽宁大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I153374732",
+    "display_name": "Liaoning Normal University",
+    "ror": "https://ror.org/04c3cgg32",
+    "works_count": 16142,
+    "alts": [
+     "Liaoning Normal University",
+     "辽宁师范大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I114117164",
+    "display_name": "University of Science and Technology Liaoning",
+    "ror": "https://ror.org/03grx7119",
+    "works_count": 12150,
+    "alts": [
+     "University of Science and Technology Liaoning",
+     "辽宁科技大学"
+    ]
+   }
+  ]
+ },
+ "大连理工大学": {
+  "search_term": "大连理工大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I27357992",
+    "display_name": "Dalian University of Technology",
+    "ror": "https://ror.org/023hj5876",
+    "works_count": 137858,
+    "alts": [
+     "Dalian University of Technology",
+     "Dàlián Lǐgōng Dàxué",
+     "大连理工大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210161255",
+    "display_name": "Liaoning Cancer Hospital & Institute",
+    "ror": "https://ror.org/05d659s21",
+    "works_count": 5863,
+    "alts": [
+     "Cancer Hospital of Dalian University of Technology",
+     "Liaoning Cancer Hospital & Institute",
+     "大连理工大学附属肿瘤医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4403386801",
+    "display_name": "City Institute, Dalian University of Technology",
+    "ror": "https://ror.org/04ccm0n64",
+    "works_count": 559,
+    "alts": [
+     "City Institute, Dalian University of Technology",
+     "大连理工大学城市学院"
+    ]
+   }
+  ]
+ },
+ "东北大学": {
+  "search_term": "东北大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I9224756",
+    "display_name": "Northeastern University",
+    "ror": "https://ror.org/03awzbc87",
+    "works_count": 103150,
+    "alts": [
+     "Dōngběi Dàxué",
+     "Northeastern University",
+     "东北大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I184983240",
+    "display_name": "Northeast Normal University",
+    "ror": "https://ror.org/02rkvz144",
+    "works_count": 38251,
+    "alts": [
+     "Dōngběi Shīfàn Dàxué",
+     "Northeast Normal University",
+     "东北师范大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I169572211",
+    "display_name": "Northeast Agricultural University",
+    "ror": "https://ror.org/0515nd386",
+    "works_count": 31630,
+    "alts": [
+     "Dōngběi Nóngyè Dàxué",
+     "Northeast Agricultural University",
+     "东北农业大学"
+    ]
+   }
+  ]
+ },
+ "大连海事大学": {
+  "search_term": "大连海事大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I43313876",
+    "display_name": "Dalian Maritime University",
+    "ror": "https://ror.org/002b7nr53",
+    "works_count": 34556,
+    "alts": [
+     "Dalian Marine College",
+     "Dalian Maritime University",
+     "大连海事大学"
+    ]
+   }
+  ]
+ },
+ "吉林大学": {
+  "search_term": "吉林大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I194450716",
+    "display_name": "Jilin University",
+    "ror": "https://ror.org/00js3aw79",
+    "works_count": 178172,
+    "alts": [
+     "Jilin University",
+     "Jílín Dàxué",
+     "吉林大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210125137",
+    "display_name": "First Hospital of Jilin University",
+    "ror": "https://ror.org/034haf133",
+    "works_count": 26713,
+    "alts": [
+     "First Hospital of Jilin University",
+     "吉林大学第一医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405270254",
+    "display_name": "Key Laboratory of Automobile Materials, Ministry of Education, Jilin University",
+    "ror": "https://ror.org/00be9ya71",
+    "works_count": 5592,
+    "alts": [
+     "Key Laboratory of Automobile Materials (Jilin University), Ministry of Education",
+     "Key Laboratory of Automobile Materials, Ministry of Education, Jilin University",
+     "Key Laboratory of Automotive Materials",
+     "吉林大学汽车材料教育部重点实验室"
+    ]
+   }
+  ]
+ },
+ "延边大学": {
+  "search_term": "延边大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I1793135",
+    "display_name": "Yanbian University",
+    "ror": "https://ror.org/039xnh269",
+    "works_count": 14074,
+    "alts": [
+     "Yanbian University",
+     "延边大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I1334884943",
+    "display_name": "Yanbian University of Science and Technology",
+    "ror": "https://ror.org/032se3k78",
+    "works_count": 150,
+    "alts": [
+     "Yanbian University of Science and Technology",
+     "延边科技大学"
+    ]
+   }
+  ]
+ },
+ "东北师范大学": {
+  "search_term": "东北师范大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I184983240",
+    "display_name": "Northeast Normal University",
+    "ror": "https://ror.org/02rkvz144",
+    "works_count": 38251,
+    "alts": [
+     "Dōngběi Shīfàn Dàxué",
+     "Northeast Normal University",
+     "东北师范大学"
+    ]
+   }
+  ]
+ },
+ "哈尔滨工业大学": {
+  "search_term": "哈尔滨工业大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I204983213",
+    "display_name": "Harbin Institute of Technology",
+    "ror": "https://ror.org/01yqg2h08",
+    "works_count": 229551,
+    "alts": [
+     "Harbin Institute of Technology",
+     "哈尔滨工业大学"
+    ]
+   }
+  ]
+ },
+ "哈尔滨工程大学": {
+  "search_term": "哈尔滨工程大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I151727225",
+    "display_name": "Harbin Engineering University",
+    "ror": "https://ror.org/03x80pn82",
+    "works_count": 65883,
+    "alts": [
+     "Harbin Engineering University",
+     "Hāěrbīn Gōngchéng Dàxué",
+     "哈尔滨工程大学"
+    ]
+   }
+  ]
+ },
+ "东北农业大学": {
+  "search_term": "东北农业大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I169572211",
+    "display_name": "Northeast Agricultural University",
+    "ror": "https://ror.org/0515nd386",
+    "works_count": 31630,
+    "alts": [
+     "Dōngběi Nóngyè Dàxué",
+     "Northeast Agricultural University",
+     "东北农业大学"
+    ]
+   }
+  ]
+ },
+ "东北林业大学": {
+  "search_term": "东北林业大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I47689461",
+    "display_name": "Northeast Forestry University",
+    "ror": "https://ror.org/02yxnh564",
+    "works_count": 37077,
+    "alts": [
+     "Dōngběi Línyè Dàxué",
+     "Northeast Forestry University",
+     "东北林业大学"
+    ]
+   }
+  ]
+ },
+ "复旦大学": {
+  "search_term": "复旦大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I24943067",
+    "display_name": "Fudan University",
+    "ror": "https://ror.org/013q1eq08",
+    "works_count": 276387,
+    "alts": [
+     "Fudan University",
+     "复旦大学",
+     "復旦大學"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I133868755",
+    "display_name": "Shanghai Medical College of Fudan University",
+    "ror": "https://ror.org/01zntxs11",
+    "works_count": 53688,
+    "alts": [
+     "Medical Center of Fudan University",
+     "Shanghai Medical College of Fudan University",
+     "复旦大学上海医学院",
+     "復旦大學上海醫學院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210127074",
+    "display_name": "Zhongshan Hospital",
+    "ror": "https://ror.org/032x22645",
+    "works_count": 36106,
+    "alts": [
+     "Chung Shan Memorial Hospital",
+     "Zhongshan Hospital",
+     "中山医院",
+     "复旦大学附属中山医院"
+    ]
+   }
+  ]
+ },
+ "同济大学": {
+  "search_term": "同济大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I116953780",
+    "display_name": "Tongji University",
+    "ror": "https://ror.org/03rc6as71",
+    "works_count": 207979,
+    "alts": [
+     "Tongji University",
+     "Tongji-Universität",
+     "Tóngjì Dàxué",
+     "同济大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4402554055",
+    "display_name": "Tongji Zhejiang College",
+    "ror": "https://ror.org/02bdb7w16",
+    "works_count": 487,
+    "alts": [
+     "Tongji Zhejiang College",
+     "同济大学浙江学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210151378",
+    "display_name": "Zhejiang Tongji Vocational College of Science and Technology",
+    "ror": "https://ror.org/04p4ra235",
+    "works_count": 739,
+    "alts": [
+     "Zhejiang Tongji Vocational College of Science and Technology",
+     "科技的同济大学浙江职业技术学院"
+    ]
+   }
+  ]
+ },
+ "上海交通大学": {
+  "search_term": "上海交通大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I183067930",
+    "display_name": "Shanghai Jiao Tong University",
+    "ror": "https://ror.org/0220qvk04",
+    "works_count": 416894,
+    "alts": [
+     "Shanghai Communications University",
+     "Shanghai Jiao Tong University",
+     "Shanghai Jiaotong University",
+     "上海交通大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I2800570007",
+    "display_name": "Renji Hospital",
+    "ror": "https://ror.org/03ypbx660",
+    "works_count": 26180,
+    "alts": [
+     "Renji Hospital",
+     "Rénjì Yīyuàn",
+     "上海交通大学医学院附属仁济医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I2801556517",
+    "display_name": "Ruijin Hospital",
+    "ror": "https://ror.org/01hv94n30",
+    "works_count": 33697,
+    "alts": [
+     "Guǎngcí Yīyuàn",
+     "Ruijin Hospital",
+     "Ruìjīn Yīyuàn",
+     "St. Marie Hospital "
+    ]
+   }
+  ]
+ },
+ "华东理工大学": {
+  "search_term": "华东理工大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I143593769",
+    "display_name": "East China University of Science and Technology",
+    "ror": "https://ror.org/01vyrm377",
+    "works_count": 71178,
+    "alts": [
+     "East China University of Science and Technology",
+     "Huádōng Lǐgōng Dàxué",
+     "华东理工大学",
+     "華東理工大學"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210119674",
+    "display_name": "East China University of Technology",
+    "ror": "https://ror.org/027385r44",
+    "works_count": 10164,
+    "alts": [
+     "East China University of Technology",
+     "东华理工大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280422",
+    "display_name": "Nanchang Jiaotong Institute",
+    "ror": "https://ror.org/02xhp6246",
+    "works_count": 285,
+    "alts": [
+     "Nanchang Jiaotong Institute",
+     "华东交通大学理工学院",
+     "南昌交通学院"
+    ]
+   }
+  ]
+ },
+ "东华大学": {
+  "search_term": "东华大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I181326427",
+    "display_name": "Donghua University",
+    "ror": "https://ror.org/035psfh38",
+    "works_count": 50166,
+    "alts": [
+     "Donghua University",
+     "Dōnghuá Dàxué",
+     "东华大学",
+     "東華大學"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I66867065",
+    "display_name": "East China Normal University",
+    "ror": "https://ror.org/02n96ep67",
+    "works_count": 84989,
+    "alts": [
+     "East China Normal University",
+     "华东师范大学",
+     "華東師範大學"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I143593769",
+    "display_name": "East China University of Science and Technology",
+    "ror": "https://ror.org/01vyrm377",
+    "works_count": 71178,
+    "alts": [
+     "East China University of Science and Technology",
+     "Huádōng Lǐgōng Dàxué",
+     "华东理工大学",
+     "華東理工大學"
+    ]
+   }
+  ]
+ },
+ "上海海洋大学": {
+  "search_term": "上海海洋大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I44675526",
+    "display_name": "Shanghai Ocean University",
+    "ror": "https://ror.org/04n40zv07",
+    "works_count": 25009,
+    "alts": [
+     "Shanghai Ocean University",
+     "上海海洋大学",
+     "上海海洋大學"
+    ]
+   }
+  ]
+ },
+ "上海中医药大学": {
+  "search_term": "上海中医药大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I4210098460",
+    "display_name": "Shanghai University of Traditional Chinese Medicine",
+    "ror": "https://ror.org/00z27jk27",
+    "works_count": 33937,
+    "alts": [
+     "Shanghai University of Traditional Chinese Medicine",
+     "上海中医药大学",
+     "上海中醫藥大學"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210101984",
+    "display_name": "Longhua Hospital Shanghai University of Traditional Chinese Medicine",
+    "ror": "https://ror.org/016yezh07",
+    "works_count": 6219,
+    "alts": [
+     "Longhua Hospital Shanghai University of Traditional Chinese Medicine",
+     "上海中医药大学附属龙华医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210133418",
+    "display_name": "Yueyang Hospital",
+    "ror": "https://ror.org/03yd12021",
+    "works_count": 3973,
+    "alts": [
+     "Yueyang Hospital",
+     "上海中医药大学附属岳阳中西医结合医院"
+    ]
+   }
+  ]
+ },
+ "华东师范大学": {
+  "search_term": "华东师范大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I66867065",
+    "display_name": "East China Normal University",
+    "ror": "https://ror.org/02n96ep67",
+    "works_count": 84989,
+    "alts": [
+     "East China Normal University",
+     "华东师范大学",
+     "華東師範大學"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405272298",
+    "display_name": "Shanghai Key Laboratory for Urban Ecological Processes and Eco-Restoration",
+    "ror": "https://ror.org/03yd05g41",
+    "works_count": 1567,
+    "alts": [
+     "Shanghai Key Lab for Urban Ecological Processes and Eco-Restoration",
+     "Shanghai Key Lab for Urban Ecological Processes and Eco-Restoration, East China Normal University",
+     "Shanghai Key Laboratory for Urban Ecological Processes and Eco-Restoration",
+     "上海市城市化生态过程与生态恢复重点实验室"
+    ]
+   }
+  ]
+ },
+ "上海外国语大学": {
+  "search_term": "上海外国语大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I11406153",
+    "display_name": "Shanghai International Studies University",
+    "ror": "https://ror.org/01bn89z48",
+    "works_count": 6155,
+    "alts": [
+     "Shanghai International Studies University",
+     "上海外国语大学",
+     "上海外國語大學"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280140",
+    "display_name": "Xianda College of Economics and Humanities, Shanghai International Studies University",
+    "ror": "https://ror.org/02gckw039",
+    "works_count": 459,
+    "alts": [
+     "Xianda College of Economics and Humanities, Shanghai International Studies University",
+     "上海外国语大学贤达经济人文学院"
+    ]
+   }
+  ]
+ },
+ "上海财经大学": {
+  "search_term": "上海财经大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I181679659",
+    "display_name": "Shanghai University of Finance and Economics",
+    "ror": "https://ror.org/00wtvfq62",
+    "works_count": 15772,
+    "alts": [
+     "Shanghai University of Finance and Economics",
+     "上海財經大學",
+     "上海财经大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405282328",
+    "display_name": "Zhejiang College of Shanghai University of Finance and Economics",
+    "ror": "https://ror.org/05pdg6k22",
+    "works_count": 81,
+    "alts": [
+     "Zhejiang College of Shanghai University of Finance and Economics",
+     "上海财经大学浙江学院"
+    ]
+   }
+  ]
+ },
+ "上海体育大学": {
+  "search_term": "Shanghai University of Sport",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I18925743",
+    "display_name": "Shanghai University of Sport",
+    "ror": "https://ror.org/0056pyw12",
+    "works_count": 7992,
+    "alts": [
+     "Shanghai Institute of Physical Education",
+     "Shanghai University of Sport",
+     "上海体育学院",
+     "上海體育大學"
+    ]
+   }
+  ]
+ },
+ "上海音乐学院": {
+  "search_term": "上海音乐学院",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I350617331",
+    "display_name": "Shanghai Conservatory of Music",
+    "ror": "https://ror.org/012f6xc93",
+    "works_count": 240,
+    "alts": [
+     "Shanghai Conservatory of Music",
+     "Shànghǎi Yīnyuè Xuéyuàn",
+     "上海音乐学院",
+     "上海音樂學院"
+    ]
+   }
+  ]
+ },
+ "上海大学": {
+  "search_term": "上海大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I113940042",
+    "display_name": "Shanghai University",
+    "ror": "https://ror.org/006teas31",
+    "works_count": 103839,
+    "alts": [
+     "Shanghai University",
+     "Shànghǎi Dàxué",
+     "上海大学",
+     "上海大學"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I183067930",
+    "display_name": "Shanghai Jiao Tong University",
+    "ror": "https://ror.org/0220qvk04",
+    "works_count": 416894,
+    "alts": [
+     "Shanghai Communications University",
+     "Shanghai Jiao Tong University",
+     "Shanghai Jiaotong University",
+     "上海交通大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I133868755",
+    "display_name": "Shanghai Medical College of Fudan University",
+    "ror": "https://ror.org/01zntxs11",
+    "works_count": 53688,
+    "alts": [
+     "Medical Center of Fudan University",
+     "Shanghai Medical College of Fudan University",
+     "复旦大学上海医学院",
+     "復旦大學上海醫學院"
+    ]
+   }
+  ]
+ },
+ "南京大学": {
+  "search_term": "南京大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I881766915",
+    "display_name": "Nanjing University",
+    "ror": "https://ror.org/01rxvg760",
+    "works_count": 204239,
+    "alts": [
+     "Nanjing University",
+     "Nanking University",
+     "南京大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I119454577",
+    "display_name": "Nanjing Agricultural University",
+    "ror": "https://ror.org/05td3s095",
+    "works_count": 65026,
+    "alts": [
+     "Nanjing Agricultural University",
+     "Nánjīng nóngyè dàxué",
+     "南京农业大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I83519826",
+    "display_name": "Nanjing Medical University",
+    "ror": "https://ror.org/059gcgy73",
+    "works_count": 95769,
+    "alts": [
+     "Nanjing Medical College",
+     "Nanjing Medical University",
+     "National Jiangsu Medical College",
+     "南京医科大学"
+    ]
+   }
+  ]
+ },
+ "苏州大学": {
+  "search_term": "苏州大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I3923682",
+    "display_name": "Soochow University",
+    "ror": "https://ror.org/05t8y2r12",
+    "works_count": 111634,
+    "alts": [
+     "Soochow University",
+     "Sūzhōu Dàxué",
+     "苏州大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210153519",
+    "display_name": "First Affiliated Hospital of Soochow University",
+    "ror": "https://ror.org/051jg5p78",
+    "works_count": 25740,
+    "alts": [
+     "First Affiliated Hospital of Soochow University",
+     "苏州大学附属第一医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4392738115",
+    "display_name": "The Fourth Affiliated Hospital of Soochow University (Suzhou Dushu Lake Hospital)",
+    "ror": "https://ror.org/04n3e7v86",
+    "works_count": 1510,
+    "alts": [
+     "Suzhou Dushu Lake Hospital",
+     "The Fourth Affiliated Hospital of Soochow University",
+     "The Fourth Affiliated Hospital of Soochow University (Suzhou Dushu Lake Hospital)",
+     "苏州大学附属第四医院"
+    ]
+   }
+  ]
+ },
+ "东南大学": {
+  "search_term": "东南大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I76569877",
+    "display_name": "Southeast University",
+    "ror": "https://ror.org/04ct4d772",
+    "works_count": 195391,
+    "alts": [
+     "Dōngnán Dàxué",
+     "Southeast University",
+     "东南大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4403386554",
+    "display_name": "Southeast University Chengxian College",
+    "ror": "https://ror.org/03mfb3630",
+    "works_count": 439,
+    "alts": [
+     "Southeast University Chengxian College",
+     "东南大学成贤学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280422",
+    "display_name": "Nanchang Jiaotong Institute",
+    "ror": "https://ror.org/02xhp6246",
+    "works_count": 285,
+    "alts": [
+     "Nanchang Jiaotong Institute",
+     "华东交通大学理工学院",
+     "南昌交通学院"
+    ]
+   }
+  ]
+ },
+ "南京航空航天大学": {
+  "search_term": "南京航空航天大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I9842412",
+    "display_name": "Nanjing University of Aeronautics and Astronautics",
+    "ror": "https://ror.org/01scyh794",
+    "works_count": 94454,
+    "alts": [
+     "Nanjing Aeronautical Institute",
+     "Nanjing College of Aviation Industry",
+     "Nanjing University of Aeronautics and Astronautics",
+     "南京航空航天大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280952",
+    "display_name": "Nanhang Jincheng College",
+    "ror": "https://ror.org/03n2re240",
+    "works_count": 429,
+    "alts": [
+     "Jincheng College of Nanjing University of Aeronautics and Astronautics",
+     "Nanhang Jincheng College",
+     "南京航空航天大学金城学院"
+    ]
+   }
+  ]
+ },
+ "南京理工大学": {
+  "search_term": "南京理工大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I36399199",
+    "display_name": "Nanjing University of Science and Technology",
+    "ror": "https://ror.org/00xp9wg62",
+    "works_count": 86695,
+    "alts": [
+     "Nanjing University of Science and Technology",
+     "Nánjīng Lǐgōng Dàxué",
+     "Nánlǐgōng",
+     "南京理工大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4403386710",
+    "display_name": "Nanjing University of Science and Technology ZiJin College",
+    "ror": "https://ror.org/0387aje64",
+    "works_count": 525,
+    "alts": [
+     "Nanjing University of Science and Technology ZiJin College",
+     "南京理工大学紫金学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405279362",
+    "display_name": "Taizhou Institute of Science and Technology",
+    "ror": "https://ror.org/01bxcmp64",
+    "works_count": 284,
+    "alts": [
+     "Taizhou Institute of Science and Technology",
+     "南京理工大学泰州科技学院"
+    ]
+   }
+  ]
+ },
+ "中国矿业大学": {
+  "search_term": "China University of Mining and Technology",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I25757504",
+    "display_name": "China University of Mining and Technology",
+    "ror": "https://ror.org/01xt2dr21",
+    "works_count": 74607,
+    "alts": [
+     "China University of Mining and Technology",
+     "Zhōngguó Kuàngyè Dàxué",
+     "中国矿业大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4399598474",
+    "display_name": "China University of Mining and Technology - Beijing",
+    "ror": "https://ror.org/003ncxf91",
+    "works_count": 26877,
+    "alts": [
+     "China University of Mining and Technology - Beijing",
+     "中国矿业大学（北京）"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405282391",
+    "display_name": "Xuhai College, China University of Mining and Technology",
+    "ror": "https://ror.org/05rzkgv70",
+    "works_count": 199,
+    "alts": [
+     "Xuhai College, China University of Mining and Technology",
+     "中国矿业大学徐海学院"
+    ]
+   }
+  ]
+ },
+ "南京邮电大学": {
+  "search_term": "南京邮电大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I41198531",
+    "display_name": "Nanjing University of Posts and Telecommunications",
+    "ror": "https://ror.org/043bpky34",
+    "works_count": 46035,
+    "alts": [
+     "Nanjing Institute of Posts and Telecommunications",
+     "Nanjing University of Posts and Telecommunications",
+     "南京邮电大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280686",
+    "display_name": "Tongda College of Nanjing University of Posts and Telecommunications",
+    "ror": "https://ror.org/039mme039",
+    "works_count": 239,
+    "alts": [
+     "Tongda College of Nanjing University of Posts and Telecommunications",
+     "南京邮电大学通达学院"
+    ]
+   }
+  ]
+ },
+ "河海大学": {
+  "search_term": "河海大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I163340411",
+    "display_name": "Hohai University",
+    "ror": "https://ror.org/01wd4xt90",
+    "works_count": 74633,
+    "alts": [
+     "Hohai University",
+     "河海大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280001",
+    "display_name": "Wanjiang University of Technology",
+    "ror": "https://ror.org/029sj4132",
+    "works_count": 632,
+    "alts": [
+     "Wanjiang University of Technology",
+     "河海大学文天学院",
+     "皖江工学院"
+    ]
+   }
+  ]
+ },
+ "江南大学": {
+  "search_term": "江南大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I111599522",
+    "display_name": "Jiangnan University",
+    "ror": "https://ror.org/04mkzax54",
+    "works_count": 75403,
+    "alts": [
+     "Jiangnan University",
+     "Jiāngnán Dàxué",
+     "Southern Yangtze University",
+     "江南大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I141103825",
+    "display_name": "Jiangxi University of Water Resources and Electric Power",
+    "ror": "https://ror.org/00avfj807",
+    "works_count": 7536,
+    "alts": [
+     "Jiangxi University of Water Resources and Electric Power",
+     "Nanchang Institute of Technology",
+     "Nanchang University of Technology",
+     "南昌工程学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405282134",
+    "display_name": "Nanchang Medical College",
+    "ror": "https://ror.org/05cgtpd39",
+    "works_count": 2156,
+    "alts": [
+     "Jiangxi University of Traditional Chinese Medicine Science and Technology College",
+     "Nanchang Medical College",
+     "南昌医学院",
+     "江西中医药大学科技学院"
+    ]
+   }
+  ]
+ },
+ "南京林业大学": {
+  "search_term": "南京林业大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I167027274",
+    "display_name": "Nanjing Forestry University",
+    "ror": "https://ror.org/03m96p165",
+    "works_count": 48397,
+    "alts": [
+     "Nanjing Forestry College",
+     "Nanjing Forestry University",
+     "Nanjing Technological College of Forest Products",
+     "Sanjiang Normal College"
+    ]
+   }
+  ]
+ },
+ "南京信息工程大学": {
+  "search_term": "南京信息工程大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I200845125",
+    "display_name": "Nanjing University of Information Science and Technology",
+    "ror": "https://ror.org/02y0rxk19",
+    "works_count": 49514,
+    "alts": [
+     "Nan Xin Da",
+     "Nanjing University of Information Science and Technology",
+     "南京信息工程大学"
+    ]
+   }
+  ]
+ },
+ "南京农业大学": {
+  "search_term": "南京农业大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I119454577",
+    "display_name": "Nanjing Agricultural University",
+    "ror": "https://ror.org/05td3s095",
+    "works_count": 65026,
+    "alts": [
+     "Nanjing Agricultural University",
+     "Nánjīng nóngyè dàxué",
+     "南京农业大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405270821",
+    "display_name": "National Center for International Research on Animal Gut Nutrition",
+    "ror": "https://ror.org/01ccc1v64",
+    "works_count": 405,
+    "alts": [
+     "National Center for International Research on Animal Gut Nutrition",
+     "动物消化道营养国际联合研究中心",
+     "南京农业大学国家动物消化道营养国际联合研究中心"
+    ]
+   }
+  ]
+ },
+ "南京医科大学": {
+  "search_term": "南京医科大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I83519826",
+    "display_name": "Nanjing Medical University",
+    "ror": "https://ror.org/059gcgy73",
+    "works_count": 95769,
+    "alts": [
+     "Nanjing Medical College",
+     "Nanjing Medical University",
+     "National Jiangsu Medical College",
+     "南京医科大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210122818",
+    "display_name": "The Affiliated Taizhou People's Hospital of Nanjing Medical University",
+    "ror": "https://ror.org/02fvevm64",
+    "works_count": 4162,
+    "alts": [
+     "Taizhou People's Hospital",
+     "The Affiliated Taizhou People's Hospital of Nanjing Medical University",
+     "南京医科大学附属泰州人民医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4400573316",
+    "display_name": "Kangda College of Nanjing Medical University",
+    "ror": "https://ror.org/0442rdt85",
+    "works_count": 1721,
+    "alts": [
+     "Kangda College of Nanjing Medical University",
+     "南京医科大学康达学院"
+    ]
+   }
+  ]
+ },
+ "南京中医药大学": {
+  "search_term": "南京中医药大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I131434179",
+    "display_name": "Nanjing University of Chinese Medicine",
+    "ror": "https://ror.org/04523zj19",
+    "works_count": 36920,
+    "alts": [
+     "Nanjing University of Chinese Medicine",
+     "Nánjīng Zhōng Yīyào Dàxué",
+     "南京中医药大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405281070",
+    "display_name": "Nanjing University of Chinese Medicine Hanlin College",
+    "ror": "https://ror.org/03tnxmz85",
+    "works_count": 171,
+    "alts": [
+     "Nanjing University of Chinese Medicine Hanlin College",
+     "南京中医药大学翰林学院"
+    ]
+   }
+  ]
+ },
+ "中国药科大学": {
+  "search_term": "中国药科大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I161716053",
+    "display_name": "China Pharmaceutical University",
+    "ror": "https://ror.org/01sfm2718",
+    "works_count": 34559,
+    "alts": [
+     "China Pharmaceutical University",
+     "中国药科大学"
+    ]
+   }
+  ]
+ },
+ "南京师范大学": {
+  "search_term": "南京师范大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I152031979",
+    "display_name": "Nanjing Normal University",
+    "ror": "https://ror.org/036trcv74",
+    "works_count": 53243,
+    "alts": [
+     "Nanjing Normal University",
+     "Nánjīng Shīfàn Dàxu",
+     "Teacher's College, Nanjing University",
+     "南京师范大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4403386495",
+    "display_name": "Nanjing Normal University Taizhou College",
+    "ror": "https://ror.org/01nb01b94",
+    "works_count": 701,
+    "alts": [
+     "Nanjing Normal University Taizhou College",
+     "南京师范大学泰州学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405282138",
+    "display_name": "Nanjing Normal University Zhongbei College",
+    "ror": "https://ror.org/05cny4j16",
+    "works_count": 117,
+    "alts": [
+     "Nanjing Normal University Zhongbei College",
+     "南京师范大学中北学院"
+    ]
+   }
+  ]
+ },
+ "浙江大学": {
+  "search_term": "浙江大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I76130692",
+    "display_name": "Zhejiang University",
+    "ror": "https://ror.org/00a2xv884",
+    "works_count": 427207,
+    "alts": [
+     "Chekiang University",
+     "Zheda",
+     "Zhejiang University",
+     "浙江大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I2802390878",
+    "display_name": "Sir Run Run Shaw Hospital",
+    "ror": "https://ror.org/00ka6rp58",
+    "works_count": 18821,
+    "alts": [
+     "Shao Yifu Hospital",
+     "Shào Yìfū Yīyuàn",
+     "Sir Run Run Shaw Hospital",
+     "浙江大学医学院附属邵逸夫医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I55712492",
+    "display_name": "Zhejiang University of Technology",
+    "ror": "https://ror.org/02djqfd08",
+    "works_count": 63260,
+    "alts": [
+     "Zhejiang University of Technology",
+     "Zhèjiāng Gōngyè Dàxúe",
+     "浙江工业大学"
+    ]
+   }
+  ]
+ },
+ "中国美术学院": {
+  "search_term": "中国美术学院",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I231293419",
+    "display_name": "China Academy of Art",
+    "ror": "https://ror.org/01r61sr78",
+    "works_count": 872,
+    "alts": [
+     "China Academy of Art",
+     "China National Academy of Fine Arts",
+     "Zhōngguó Měishù Xuéyuàn",
+     "中国美术学院"
+    ]
+   }
+  ]
+ },
+ "安徽大学": {
+  "search_term": "安徽大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I143868143",
+    "display_name": "Anhui University",
+    "ror": "https://ror.org/05th6yx34",
+    "works_count": 47756,
+    "alts": [
+     "Anhui University",
+     "ānhuī dàxué",
+     "安徽大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I197869895",
+    "display_name": "Anhui Medical University",
+    "ror": "https://ror.org/03xb04968",
+    "works_count": 41711,
+    "alts": [
+     "Anhui Medical University",
+     "Ānhuī Yīkē Dàxué",
+     "安徽医科大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I140221134",
+    "display_name": "Anhui Agricultural University",
+    "ror": "https://ror.org/0327f3359",
+    "works_count": 22283,
+    "alts": [
+     "Anhui Agricultural University",
+     "安徽农业大学"
+    ]
+   }
+  ]
+ },
+ "中国科学技术大学": {
+  "search_term": "中国科学技术大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I126520041",
+    "display_name": "University of Science and Technology of China",
+    "ror": "https://ror.org/04c4dkn09",
+    "works_count": 216964,
+    "alts": [
+     "University of Science and Technology of China",
+     "中国科学技术大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I170215575",
+    "display_name": "National University of Defense Technology",
+    "ror": "https://ror.org/05d2yfz11",
+    "works_count": 91605,
+    "alts": [
+     "Guófáng Kēxuéjìshù Dàxué",
+     "National University of Defense Technology",
+     "中国人民解放军国防科学技术大学"
+    ]
+   }
+  ]
+ },
+ "合肥工业大学": {
+  "search_term": "合肥工业大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I16365422",
+    "display_name": "Hefei University of Technology",
+    "ror": "https://ror.org/02czkny70",
+    "works_count": 66556,
+    "alts": [
+     "Hefei University of Technology",
+     "合肥工业大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280672",
+    "display_name": "Hefei City Staff University",
+    "ror": "https://ror.org/0391mht05",
+    "works_count": 0,
+    "alts": [
+     "Hefei City Staff University",
+     "合肥市工人业余大学",
+     "合肥市职工业余大学",
+     "合肥市职工大学"
+    ]
+   }
+  ]
+ },
+ "厦门大学": {
+  "search_term": "厦门大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I191208505",
+    "display_name": "Xiamen University",
+    "ror": "https://ror.org/00mcjh785",
+    "works_count": 123812,
+    "alts": [
+     "Xiamen University",
+     "Xiàmén Dàxué",
+     "厦门大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210087327",
+    "display_name": "First Affiliated Hospital of Xiamen University",
+    "ror": "https://ror.org/0006swh35",
+    "works_count": 7318,
+    "alts": [
+     "First Affiliated Hospital of Xiamen University",
+     "厦门大学附属第一医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210124907",
+    "display_name": "Zhongshan Hospital of Xiamen University",
+    "ror": "https://ror.org/02z125451",
+    "works_count": 4167,
+    "alts": [
+     "Zhongshan Hospital of Xiamen University",
+     "厦门大学附属中山医院"
+    ]
+   }
+  ]
+ },
+ "福州大学": {
+  "search_term": "福州大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I80947539",
+    "display_name": "Fuzhou University",
+    "ror": "https://ror.org/011xvna82",
+    "works_count": 68295,
+    "alts": [
+     "Fuzhou University",
+     "Fúzhōu Dàxué",
+     "福州大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405279773",
+    "display_name": "Fuzhou University Zhicheng College",
+    "ror": "https://ror.org/01zjw7y70",
+    "works_count": 415,
+    "alts": [
+     "Fuzhou University Zhicheng College",
+     "福州大学至诚学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280499",
+    "display_name": "Fuzhou Polytechnic",
+    "ror": "https://ror.org/030x5px31",
+    "works_count": 324,
+    "alts": [
+     "Fuzhou Polytechnic",
+     "福州职业技术大学",
+     "福州职业技术学院"
+    ]
+   }
+  ]
+ },
+ "南昌大学": {
+  "search_term": "南昌大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I141649914",
+    "display_name": "Nanchang University",
+    "ror": "https://ror.org/042v6xz23",
+    "works_count": 64029,
+    "alts": [
+     "Nanchang University",
+     "Nánchāng Dàxué",
+     "南昌大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210164024",
+    "display_name": "First Affiliated Hospital of Nanchang University",
+    "ror": "https://ror.org/05gbwr869",
+    "works_count": 14541,
+    "alts": [
+     "First Affiliated Hospital of Nanchang University",
+     "南昌大学第一附属医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210108480",
+    "display_name": "Second Affiliated Hospital of Nanchang University",
+    "ror": "https://ror.org/01nxv5c88",
+    "works_count": 12113,
+    "alts": [
+     "No.2 Affiliated Hospital of Nanchang University",
+     "Second Affiliated Hospital of Nanchang University",
+     "南昌大学第二附属医院"
+    ]
+   }
+  ]
+ },
+ "山东大学": {
+  "search_term": "山东大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I154099455",
+    "display_name": "Shandong University",
+    "ror": "https://ror.org/0207yh398",
+    "works_count": 219088,
+    "alts": [
+     "Shandong University",
+     "Shāndōng Dàxué,",
+     "山东大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I74485261",
+    "display_name": "Shandong Agricultural University",
+    "ror": "https://ror.org/02ke8fw32",
+    "works_count": 28375,
+    "alts": [
+     "Shandong Agricultural University",
+     "Shāndōng Nóngyè Dàxué",
+     "山东农业大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I28006308",
+    "display_name": "Shandong Normal University",
+    "ror": "https://ror.org/01wy3h363",
+    "works_count": 32467,
+    "alts": [
+     "Shandong Normal College",
+     "Shandong Normal University",
+     "山东师范大学"
+    ]
+   }
+  ]
+ },
+ "中国海洋大学": {
+  "search_term": "中国海洋大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I59028903",
+    "display_name": "Ocean University of China",
+    "ror": "https://ror.org/04rdtx186",
+    "works_count": 71497,
+    "alts": [
+     "Ocean University of China",
+     "Zhōngguó Hǎiyáng Dàxué",
+     "中国海洋大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405282100",
+    "display_name": "Qingdao Institute of Technology",
+    "ror": "https://ror.org/05b2v7x46",
+    "works_count": 232,
+    "alts": [
+     "Qingdao Institute of Technology",
+     "中国海洋大学青岛学院",
+     "青岛工学院"
+    ]
+   }
+  ]
+ },
+ "中国石油大学(华东)": {
+  "search_term": "China University of Petroleum (East China)",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I4210162190",
+    "display_name": "China University of Petroleum, East China",
+    "ror": "https://ror.org/05gbn2817",
+    "works_count": 46693,
+    "alts": [
+     "China University of Petroleum, East China",
+     "中国石油大学"
+    ]
+   }
+  ]
+ },
+ "郑州大学": {
+  "search_term": "郑州大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I38877650",
+    "display_name": "Zhengzhou University",
+    "ror": "https://ror.org/04ypx8c21",
+    "works_count": 130342,
+    "alts": [
+     "Zhengzhou University",
+     "郑州大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210144384",
+    "display_name": "Third Affiliated Hospital of Zhengzhou University",
+    "ror": "https://ror.org/039nw9e11",
+    "works_count": 4195,
+    "alts": [
+     "Third Affiliated Hospital of Zhengzhou University",
+     "郑州大学第三附属医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405281426",
+    "display_name": "Zhengzhou University of Technology",
+    "ror": "https://ror.org/04arpyk72",
+    "works_count": 2055,
+    "alts": [
+     "Zhengzhou University of Technology",
+     "Zhongzhou University",
+     "中州大学",
+     "郑州工程技术学院"
+    ]
+   }
+  ]
+ },
+ "河南大学": {
+  "search_term": "河南大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I173899330",
+    "display_name": "Henan University",
+    "ror": "https://ror.org/003xyzq10",
+    "works_count": 51036,
+    "alts": [
+     "Henan University",
+     "Hénán Dàxué",
+     "河南大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I75955062",
+    "display_name": "Henan Normal University",
+    "ror": "https://ror.org/00s13br28",
+    "works_count": 29759,
+    "alts": [
+     "Henan Normal University",
+     "河南师范大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4750791",
+    "display_name": "Henan Agricultural University",
+    "ror": "https://ror.org/04eq83d71",
+    "works_count": 23097,
+    "alts": [
+     "Henan Agricultural University",
+     "河南农业大学"
+    ]
+   }
+  ]
+ },
+ "武汉大学": {
+  "search_term": "武汉大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I37461747",
+    "display_name": "Wuhan University",
+    "ror": "https://ror.org/033vjfk17",
+    "works_count": 193988,
+    "alts": [
+     "Wuhan University",
+     "武汉大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I196699116",
+    "display_name": "Wuhan University of Technology",
+    "ror": "https://ror.org/03fe7t173",
+    "works_count": 93034,
+    "alts": [
+     "Wuhan University of Technology",
+     "武汉理工大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I43922553",
+    "display_name": "Wuhan University of Science and Technology",
+    "ror": "https://ror.org/00e4hrk88",
+    "works_count": 37289,
+    "alts": [
+     "Wuhan University of Science and Technology",
+     "武汉科技大学"
+    ]
+   }
+  ]
+ },
+ "华中科技大学": {
+  "search_term": "华中科技大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I47720641",
+    "display_name": "Huazhong University of Science and Technology",
+    "ror": "https://ror.org/00p991c53",
+    "works_count": 273161,
+    "alts": [
+     "Huazhong University of Science and Technology",
+     "Huázhōng Kējì Dàxué",
+     "华中科技大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405272547",
+    "display_name": "China-EU Institute for Clean and Renewable Energy",
+    "ror": "https://ror.org/04atpyy50",
+    "works_count": 1042,
+    "alts": [
+     "China-EU Institute for Clean and Renewable Energy",
+     "China-EU Institute for Clean and Renewable Energy at Huazhong University of Science and Technology",
+     "China-EU Institute for Clean and Renewable Energy, HUST",
+     "华中科技大学中欧清洁与可再生能源学院"
+    ]
+   }
+  ]
+ },
+ "中国地质大学(武汉)": {
+  "search_term": "China University of Geosciences Wuhan",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I3124059619",
+    "display_name": "China University of Geosciences",
+    "ror": "https://ror.org/04gcegc37",
+    "works_count": 123303,
+    "alts": [
+     "Beijing Institute of Geology",
+     "China University of Geosciences",
+     "Hubei College of Geology",
+     "Wuhan College of Geology"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4403928309",
+    "display_name": "Wuhan University of Engineering Science",
+    "ror": "https://ror.org/03bps0m03",
+    "works_count": 350,
+    "alts": [
+     "Jiangcheng College China University of Geosciences",
+     "Wuhan University of Engineering Science",
+     "中国地质大学江城学院",
+     "武汉工程科技学院"
+    ]
+   }
+  ]
+ },
+ "武汉理工大学": {
+  "search_term": "武汉理工大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I196699116",
+    "display_name": "Wuhan University of Technology",
+    "ror": "https://ror.org/03fe7t173",
+    "works_count": 93034,
+    "alts": [
+     "Wuhan University of Technology",
+     "武汉理工大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405281909",
+    "display_name": "Wuhan Huaxia University of Technology",
+    "ror": "https://ror.org/0529v2183",
+    "works_count": 522,
+    "alts": [
+     "Wuhan Huaxia Institute of Technology",
+     "Wuhan Huaxia University of Technology",
+     "武汉华夏理工学院",
+     "武汉理工大学华夏学院"
+    ]
+   }
+  ]
+ },
+ "华中农业大学": {
+  "search_term": "华中农业大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I204823248",
+    "display_name": "Huazhong Agricultural University",
+    "ror": "https://ror.org/023b72294",
+    "works_count": 57416,
+    "alts": [
+     "Huazhong Agricultural University",
+     "华中农业大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405278942",
+    "display_name": "Wuhan Institute of Design and Sciences",
+    "ror": "https://ror.org/00sfyxm29",
+    "works_count": 329,
+    "alts": [
+     "Chutian College Huazhong Agricultural University",
+     "Wuhan Institute of Design and Sciences",
+     "华中农业大学楚天学院",
+     "武汉设计工程学院"
+    ]
+   }
+  ]
+ },
+ "华中师范大学": {
+  "search_term": "华中师范大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I40963666",
+    "display_name": "Central China Normal University",
+    "ror": "https://ror.org/03x1jna21",
+    "works_count": 44227,
+    "alts": [
+     "Central China Normal University",
+     "Huazhong Normal University",
+     "华中师范大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280881",
+    "display_name": "Wuhan University of Communication",
+    "ror": "https://ror.org/03j2g8d90",
+    "works_count": 72,
+    "alts": [
+     "Wuhan University of Communication",
+     "华中师范大学武汉传媒学院",
+     "华中师范大学武汉影视工程学院",
+     "武汉传媒学院"
+    ]
+   }
+  ]
+ },
+ "中南财经政法大学": {
+  "search_term": "中南财经政法大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I158934434",
+    "display_name": "Zhongnan University of Economics and Law",
+    "ror": "https://ror.org/04yqxxq63",
+    "works_count": 13089,
+    "alts": [
+     "Zhongnan University of Economics and Law",
+     "zhōng nán cái dà",
+     "中南财经政法大学"
+    ]
+   }
+  ]
+ },
+ "湘潭大学": {
+  "search_term": "湘潭大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I4610292",
+    "display_name": "Xiangtan University",
+    "ror": "https://ror.org/00xsfaz62",
+    "works_count": 32276,
+    "alts": [
+     "Xiangtan University",
+     "Xiāngtán Dàxué",
+     "湘潭大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405281380",
+    "display_name": "Xiangtan Institute of Technology",
+    "ror": "https://ror.org/0491a3c10",
+    "works_count": 123,
+    "alts": [
+     "Xiangtan Institute of Technology",
+     "湖南工商大学北津学院",
+     "湘潭理工学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405279580",
+    "display_name": "Xingxiang College of Xiangtan University",
+    "ror": "https://ror.org/01pt2pt53",
+    "works_count": 10,
+    "alts": [
+     "Xingxiang College of Xiangtan University",
+     "湘潭大学兴湘学院"
+    ]
+   }
+  ]
+ },
+ "湖南大学": {
+  "search_term": "湖南大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I16609230",
+    "display_name": "Hunan University",
+    "ror": "https://ror.org/05htk5m33",
+    "works_count": 96644,
+    "alts": [
+     "Hunan University",
+     "Húnán Dàxué",
+     "湖南大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I52180223",
+    "display_name": "Hunan Agricultural University",
+    "ror": "https://ror.org/01dzed356",
+    "works_count": 23261,
+    "alts": [
+     "Hunan Agricultural University",
+     "湖南农业大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I173759888",
+    "display_name": "Hunan Normal University",
+    "ror": "https://ror.org/053w1zy07",
+    "works_count": 42969,
+    "alts": [
+     "Hunan Normal University",
+     "Húnán Shīfàn Dàxué",
+     "湖南师范大学"
+    ]
+   }
+  ]
+ },
+ "中南大学": {
+  "search_term": "中南大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I139660479",
+    "display_name": "Central South University",
+    "ror": "https://ror.org/00f1zfq44",
+    "works_count": 222287,
+    "alts": [
+     "Central South University",
+     "中南大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210159865",
+    "display_name": "Xiangya Hospital Central South University",
+    "ror": "https://ror.org/05c1yfj14",
+    "works_count": 47521,
+    "alts": [
+     "Xiangya Hospital Central South University",
+     "中南大学湘雅医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210156904",
+    "display_name": "Third Xiangya Hospital",
+    "ror": "https://ror.org/05akvb491",
+    "works_count": 15141,
+    "alts": [
+     "Third Xiangya Hospital",
+     "Third Xiangya Hospital of Central South University",
+     "中南大学湘雅三医院-门急诊楼"
+    ]
+   }
+  ]
+ },
+ "湖南师范大学": {
+  "search_term": "湖南师范大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I173759888",
+    "display_name": "Hunan Normal University",
+    "ror": "https://ror.org/053w1zy07",
+    "works_count": 42969,
+    "alts": [
+     "Hunan Normal University",
+     "Húnán Shīfàn Dàxué",
+     "湖南师范大学"
+    ]
+   }
+  ]
+ },
+ "中山大学": {
+  "search_term": "中山大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I157773358",
+    "display_name": "Sun Yat-sen University",
+    "ror": "https://ror.org/0064kty71",
+    "works_count": 248491,
+    "alts": [
+     "Sun Yat-sen University",
+     "中山大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210146711",
+    "display_name": "Sun Yat-sen University Cancer Center",
+    "ror": "https://ror.org/0400g8r85",
+    "works_count": 27883,
+    "alts": [
+     "Sun Yat-sen University Cancer Center",
+     "中山大学肿瘤防治中心"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4401726874",
+    "display_name": "Zhongshan Ophthalmic Center, Sun Yat-sen University",
+    "ror": "https://ror.org/02z2yec16",
+    "works_count": 10789,
+    "alts": [
+     "Zhongshan Ophthalmic Center",
+     "Zhongshan Ophthalmic Center, Sun Yat-sen University",
+     "中山大学眼科中心"
+    ]
+   }
+  ]
+ },
+ "暨南大学": {
+  "search_term": "暨南大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I159948400",
+    "display_name": "Jinan University",
+    "ror": "https://ror.org/02xe5ns62",
+    "works_count": 87321,
+    "alts": [
+     "Jinan University",
+     "暨南大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210162753",
+    "display_name": "First Affiliated Hospital of Jinan University",
+    "ror": "https://ror.org/05d5vvz89",
+    "works_count": 13343,
+    "alts": [
+     "First Affiliated Hospital of Jinan University",
+     "Guangzhou Overseas Chinese Hospital",
+     "暨南大学附属第一医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4392738306",
+    "display_name": "The Affiliated Shunde Hospital of Jinan University",
+    "ror": "https://ror.org/04x2nq985",
+    "works_count": 237,
+    "alts": [
+     "Affiliated Shunde Hospital of Jinan University",
+     "Second People's Hospital of Shunde",
+     "The Affiliated Shunde Hospital of Jinan University",
+     "The Second People's Hospital of Shunde"
+    ]
+   }
+  ]
+ },
+ "华南理工大学": {
+  "search_term": "华南理工大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I90610280",
+    "display_name": "South China University of Technology",
+    "ror": "https://ror.org/0530pts50",
+    "works_count": 153412,
+    "alts": [
+     "Huánán Lǐgōng Dàxué",
+     "South China University of Technology",
+     "华南理工大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280161",
+    "display_name": "Guangzhou City University of Technology",
+    "ror": "https://ror.org/02hcyt080",
+    "works_count": 1362,
+    "alts": [
+     "Guangzhou City University of Technology",
+     "Guangzhou College of South China University of Technology",
+     "华南理工大学广州学院",
+     "华南理工大学广州汽车学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280422",
+    "display_name": "Nanchang Jiaotong Institute",
+    "ror": "https://ror.org/02xhp6246",
+    "works_count": 285,
+    "alts": [
+     "Nanchang Jiaotong Institute",
+     "华东交通大学理工学院",
+     "南昌交通学院"
+    ]
+   }
+  ]
+ },
+ "华南农业大学": {
+  "search_term": "华南农业大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I101479585",
+    "display_name": "South China Agricultural University",
+    "ror": "https://ror.org/05v9jqt67",
+    "works_count": 53455,
+    "alts": [
+     "South China Agricultural College",
+     "South China Agricultural University",
+     "华南农业大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280700",
+    "display_name": "Zhujiang College of South China Agricultural University",
+    "ror": "https://ror.org/03afyq371",
+    "works_count": 375,
+    "alts": [
+     "Zhujiang College of South China Agricultural University",
+     "华南农业大学珠江学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280272",
+    "display_name": "Shangqiu University",
+    "ror": "https://ror.org/02pk9x475",
+    "works_count": 206,
+    "alts": [
+     "Shangqiu University",
+     "商丘学院",
+     "河南农业大学华豫学院"
+    ]
+   }
+  ]
+ },
+ "广州医科大学": {
+  "search_term": "广州医科大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I92039509",
+    "display_name": "Guangzhou Medical University",
+    "ror": "https://ror.org/00zat6v61",
+    "works_count": 40849,
+    "alts": [
+     "Guangzhou Medical College",
+     "Guangzhou Medical University",
+     "广州医科大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210098361",
+    "display_name": "First Affiliated Hospital of Guangzhou Medical University",
+    "ror": "https://ror.org/00z0j0d77",
+    "works_count": 14246,
+    "alts": [
+     "First Affiliated Hospital of Guangzhou Medical University",
+     "广州医科大学附属第一医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210092091",
+    "display_name": "Third Affiliated Hospital of Guangzhou Medical University",
+    "ror": "https://ror.org/00fb35g87",
+    "works_count": 5598,
+    "alts": [
+     "Third Affiliated Hospital of Guangzhou Medical University",
+     "广州医科大学附属第三医院"
+    ]
+   }
+  ]
+ },
+ "广州中医药大学": {
+  "search_term": "广州中医药大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I117532281",
+    "display_name": "Guangzhou University of Chinese Medicine",
+    "ror": "https://ror.org/03qb7bg95",
+    "works_count": 30130,
+    "alts": [
+     "Guangzhou University of Chinese Medicine",
+     "Guǎngzhōu Zhōng yīyào dàxué",
+     "广州中医药大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210105984",
+    "display_name": "Guangdong Provincial Hospital of Chinese Medicine",
+    "ror": "https://ror.org/01gb3y148",
+    "works_count": 11095,
+    "alts": [
+     "Guangdong Hospital of Traditional Chinese Medicine",
+     "Guangdong Provincial Hospital of Chinese Medicine",
+     "Guangdong Provincial Hospital of Traditional Chinese Medicine",
+     "The Second Affiliated Hospital of Guangzhou University of Chinese Medicine"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210129515",
+    "display_name": "The Third Affiliated Hospital of Guangzhou University of Traditional Chinese Medicine",
+    "ror": "https://ror.org/036csaq39",
+    "works_count": 594,
+    "alts": [
+     "The Third Affiliated Hospital of Guangzhou University of Traditional Chinese Medicine",
+     "广州中医药大学附属第三医院"
+    ]
+   }
+  ]
+ },
+ "华南师范大学": {
+  "search_term": "华南师范大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I187400657",
+    "display_name": "South China Normal University",
+    "ror": "https://ror.org/01kq0pv72",
+    "works_count": 52466,
+    "alts": [
+     "South China Normal University",
+     "华南师范大学"
+    ]
+   }
+  ]
+ },
+ "海南大学": {
+  "search_term": "海南大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I20942203",
+    "display_name": "Hainan University",
+    "ror": "https://ror.org/03q648j11",
+    "works_count": 42353,
+    "alts": [
+     "Hainan University",
+     "Hǎinán Dàxué",
+     "海南大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I152033890",
+    "display_name": "Hainan Normal University",
+    "ror": "https://ror.org/031dhcv14",
+    "works_count": 9060,
+    "alts": [
+     "Hainan Normal University",
+     "Hǎinán Shīfàn Dàxué",
+     "海南师范大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405282083",
+    "display_name": "Hainan Vocational University of Science and Technology",
+    "ror": "https://ror.org/05a8bts04",
+    "works_count": 2732,
+    "alts": [
+     "Hainan Vocational University of Science and Technology",
+     "海南科技职业大学",
+     "海南科技职业学院"
+    ]
+   }
+  ]
+ },
+ "广西大学": {
+  "search_term": "广西大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I150807315",
+    "display_name": "Guangxi University",
+    "ror": "https://ror.org/02c9qn167",
+    "works_count": 61146,
+    "alts": [
+     "Guangxi University",
+     "Guǎngxī Dàxué",
+     "广西大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I160354086",
+    "display_name": "Guangxi Medical University",
+    "ror": "https://ror.org/03dveyr97",
+    "works_count": 25690,
+    "alts": [
+     "Guangxi Medical University",
+     "Guǎngxī Yīkē Dàxué",
+     "广西医科大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I29739308",
+    "display_name": "Guangxi Normal University",
+    "ror": "https://ror.org/02frt9q65",
+    "works_count": 26636,
+    "alts": [
+     "Guangxi Normal University",
+     "Guǎngxī shīfàn dàxué",
+     "广西师范大学"
+    ]
+   }
+  ]
+ },
+ "四川大学": {
+  "search_term": "四川大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I24185976",
+    "display_name": "Sichuan University",
+    "ror": "https://ror.org/011ashp19",
+    "works_count": 250676,
+    "alts": [
+     "Sichuan University",
+     "Sìchuān Dàxué",
+     "四川大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I2800091995",
+    "display_name": "West China Medical Center of Sichuan University",
+    "ror": "https://ror.org/040nggs60",
+    "works_count": 36292,
+    "alts": [
+     "West China Medical Center of Sichuan University",
+     "West China University of Medical Sciences",
+     "四川大学华西医学中心"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I37574244",
+    "display_name": "Sichuan Agricultural University",
+    "ror": "https://ror.org/0388c3403",
+    "works_count": 37011,
+    "alts": [
+     "Sichuan Agricultural University",
+     "四川农业大学"
+    ]
+   }
+  ]
+ },
+ "重庆大学": {
+  "search_term": "重庆大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I158842170",
+    "display_name": "Chongqing University",
+    "ror": "https://ror.org/023rhb549",
+    "works_count": 138500,
+    "alts": [
+     "Chongqing University",
+     "Chóngqìng Dàxué",
+     "重庆大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I87780372",
+    "display_name": "Chongqing Medical University",
+    "ror": "https://ror.org/017z00e58",
+    "works_count": 45294,
+    "alts": [
+     "Chongqing Medical University",
+     "Chongqing University of Medical Sciences",
+     "重庆医科大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I10535382",
+    "display_name": "Chongqing University of Posts and Telecommunications",
+    "ror": "https://ror.org/03dgaqz26",
+    "works_count": 30233,
+    "alts": [
+     "Chongqing University of Posts and Telecommunications",
+     "重庆邮电大学"
+    ]
+   }
+  ]
+ },
+ "西南交通大学": {
+  "search_term": "西南交通大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I4800084",
+    "display_name": "Southwest Jiaotong University",
+    "ror": "https://ror.org/00hn7w693",
+    "works_count": 85852,
+    "alts": [
+     "Southwest Jiaotong University",
+     "Xīnán Jiāotōng Dàxué",
+     "西南交通大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4403386517",
+    "display_name": "Southwest Jiaotong University Hope College",
+    "ror": "https://ror.org/01yymex05",
+    "works_count": 454,
+    "alts": [
+     "Southwest Jiaotong University Hope College",
+     "西南交通大学希望学院"
+    ]
+   }
+  ]
+ },
+ "电子科技大学": {
+  "search_term": "电子科技大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I150229711",
+    "display_name": "University of Electronic Science and Technology of China",
+    "ror": "https://ror.org/04qr3zq92",
+    "works_count": 150709,
+    "alts": [
+     "University of Electronic Science and Technology of China",
+     "电子科技大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I149594827",
+    "display_name": "Xidian University",
+    "ror": "https://ror.org/05s92vm98",
+    "works_count": 87149,
+    "alts": [
+     "University of Electronic Science and Technology at Xi'an",
+     "Xidian University",
+     "Xīān Diànzǐ Kējì Dàxué",
+     "西安电子科技大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I50760025",
+    "display_name": "Hangzhou Dianzi University",
+    "ror": "https://ror.org/0576gt767",
+    "works_count": 38958,
+    "alts": [
+     "Hangzhou Dianzi University",
+     "Hangzhou Institute of Electrical Engineering",
+     "Hángzhōu diànzǐ kējì dàxué",
+     "杭州电子科技大学"
+    ]
+   }
+  ]
+ },
+ "西南石油大学": {
+  "search_term": "西南石油大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I165745306",
+    "display_name": "Southwest Petroleum University",
+    "ror": "https://ror.org/03h17x602",
+    "works_count": 32958,
+    "alts": [
+     "Southwest Petroleum University",
+     "西南石油大学"
+    ]
+   }
+  ]
+ },
+ "成都理工大学": {
+  "search_term": "成都理工大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I31595395",
+    "display_name": "Chengdu University of Technology",
+    "ror": "https://ror.org/05pejbw21",
+    "works_count": 33845,
+    "alts": [
+     "Chengdu University of Technology",
+     "成都理工大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4403386537",
+    "display_name": "The Engineering & Technical College of Chengdu University of Technology",
+    "ror": "https://ror.org/01swcva92",
+    "works_count": 636,
+    "alts": [
+     "Chengdu University of Technology Engineering and Technical College",
+     "College of Engineering and Technology, Chengdu University of Technology",
+     "Engineering & Technical College of Chengdu University of Technology",
+     "Engineering and Technical College of Chengdu University of Technology"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280752",
+    "display_name": "Sichuan University of Media and Communications",
+    "ror": "https://ror.org/03cva9620",
+    "works_count": 438,
+    "alts": [
+     "Sichuan University of Media and Communications",
+     "四川传媒学院",
+     "川传",
+     "成都理工大学广播影视学院"
+    ]
+   }
+  ]
+ },
+ "四川农业大学": {
+  "search_term": "四川农业大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I37574244",
+    "display_name": "Sichuan Agricultural University",
+    "ror": "https://ror.org/0388c3403",
+    "works_count": 37011,
+    "alts": [
+     "Sichuan Agricultural University",
+     "四川农业大学"
+    ]
+   }
+  ]
+ },
+ "成都中医药大学": {
+  "search_term": "成都中医药大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I53411278",
+    "display_name": "Chengdu University of Traditional Chinese Medicine",
+    "ror": "https://ror.org/00pcrz470",
+    "works_count": 23344,
+    "alts": [
+     "Chengdu University of Traditional Chinese Medicine",
+     "Chéngdū zhōng yīyào Dàxué",
+     "成都中医药大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210167226",
+    "display_name": "Second Affiliated Hospital of Chengdu University of Traditional Chinese",
+    "ror": "https://ror.org/031maes79",
+    "works_count": 750,
+    "alts": [
+     "Second Affiliated Hospital of Chengdu University of Traditional Chinese",
+     "Sichuan Reproductive Health College",
+     "成都中医药大学"
+    ]
+   }
+  ]
+ },
+ "西南大学": {
+  "search_term": "西南大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I142108993",
+    "display_name": "Southwest University",
+    "ror": "https://ror.org/01kj4z117",
+    "works_count": 76695,
+    "alts": [
+     "Southwest University",
+     "Xīnán Dàxué",
+     "西南大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4800084",
+    "display_name": "Southwest Jiaotong University",
+    "ror": "https://ror.org/00hn7w693",
+    "works_count": 85852,
+    "alts": [
+     "Southwest Jiaotong University",
+     "Xīnán Jiāotōng Dàxué",
+     "西南交通大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I165745306",
+    "display_name": "Southwest Petroleum University",
+    "ror": "https://ror.org/03h17x602",
+    "works_count": 32958,
+    "alts": [
+     "Southwest Petroleum University",
+     "西南石油大学"
+    ]
+   }
+  ]
+ },
+ "西南财经大学": {
+  "search_term": "西南财经大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I204831749",
+    "display_name": "Southwestern University of Finance and Economics",
+    "ror": "https://ror.org/04ewct822",
+    "works_count": 16592,
+    "alts": [
+     "Southwestern University of Finance and Economics",
+     "西南财经大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405281528",
+    "display_name": "Tianfu College of SWUFE",
+    "ror": "https://ror.org/04fx8kk84",
+    "works_count": 247,
+    "alts": [
+     "Tianfu College of SWUFE",
+     "Tianfu College of Southwestern University of Finance and Economics",
+     "西南财经大学天府学院",
+     "西财天府"
+    ]
+   }
+  ]
+ },
+ "贵州大学": {
+  "search_term": "贵州大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I178232147",
+    "display_name": "Guizhou University",
+    "ror": "https://ror.org/02wmsc916",
+    "works_count": 60970,
+    "alts": [
+     "Guizhou University",
+     "Guìzhōu Dàxué",
+     "贵州大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I154893126",
+    "display_name": "Guizhou Normal University",
+    "ror": "https://ror.org/02x1pa065",
+    "works_count": 14710,
+    "alts": [
+     "Guiyang Normal College",
+     "Guizhou Normal University",
+     "National Guiyang Normal College",
+     "贵州师范大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210095439",
+    "display_name": "Guizhou Minzu University",
+    "ror": "https://ror.org/00qm4t918",
+    "works_count": 4352,
+    "alts": [
+     "Guizhou Minzu University",
+     "贵州民族大学"
+    ]
+   }
+  ]
+ },
+ "云南大学": {
+  "search_term": "云南大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I189210763",
+    "display_name": "Yunnan University",
+    "ror": "https://ror.org/0040axw97",
+    "works_count": 48829,
+    "alts": [
+     "University of the Eastern Land",
+     "Yunnan University",
+     "云南大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I195019228",
+    "display_name": "Yunnan Agricultural University",
+    "ror": "https://ror.org/04dpa3g90",
+    "works_count": 14964,
+    "alts": [
+     "Yunnan Agricultural University",
+     "云南农业大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I120825670",
+    "display_name": "Yunnan Normal University",
+    "ror": "https://ror.org/00sc9n023",
+    "works_count": 17041,
+    "alts": [
+     "Yunnan Normal University",
+     "云南师范大学"
+    ]
+   }
+  ]
+ },
+ "西藏大学": {
+  "search_term": "Tibet University",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I140786321",
+    "display_name": "Tibet University",
+    "ror": "https://ror.org/05petvd47",
+    "works_count": 5119,
+    "alts": [
+     "Tibet University",
+     "西藏大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I165225704",
+    "display_name": "Xizang Minzu University",
+    "ror": "https://ror.org/042170a43",
+    "works_count": 2234,
+    "alts": [
+     "Tibet Minzu University",
+     "Tibet University for Nationalities",
+     "Xizang Minzu University",
+     "西藏民族学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405281016",
+    "display_name": "Xizang Agricultural and Animal Husbandry University",
+    "ror": "https://ror.org/03r8mv880",
+    "works_count": 1389,
+    "alts": [
+     "Tibet Agricultural and Animal Husbandry University",
+     "Tibet Agriculture and Animal Husbandry University",
+     "Tibet College of Agriculture",
+     "Xizang Agricultural and Animal Husbandry University"
+    ]
+   }
+  ]
+ },
+ "西北大学": {
+  "search_term": "西北大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I37802460",
+    "display_name": "Northwest University",
+    "ror": "https://ror.org/00z3td547",
+    "works_count": 48470,
+    "alts": [
+     "Northwest University",
+     "Xīběi Dàxué",
+     "西北大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I89652312",
+    "display_name": "Northwest A&F University",
+    "ror": "https://ror.org/0051rme32",
+    "works_count": 63731,
+    "alts": [
+     "Northwest A&F University",
+     "Xīběi Nónglín Kējì Dàxué",
+     "西北农林科技大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I17145004",
+    "display_name": "Northwestern Polytechnical University",
+    "ror": "https://ror.org/01y0j0j86",
+    "works_count": 144250,
+    "alts": [
+     "Northwestern Polytechnical University",
+     "State Northwest Institute of Engineering",
+     "Xīběi Gōngyè Dàxué",
+     "Северо-западный политехнический университет"
+    ]
+   }
+  ]
+ },
+ "西安交通大学": {
+  "search_term": "西安交通大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I87445476",
+    "display_name": "Xi'an Jiaotong University",
+    "ror": "https://ror.org/017zhmm22",
+    "works_count": 224679,
+    "alts": [
+     "Xi'an Jiao Tong University",
+     "Xi'an Jiaotong University",
+     "Xian Jiaotong University",
+     "西安交通大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405281257",
+    "display_name": "Xi'an Jiaotong University City College",
+    "ror": "https://ror.org/043rh7f27",
+    "works_count": 535,
+    "alts": [
+     "Xi'an Jiaotong University City College",
+     "西安交通大学城市学院"
+    ]
+   }
+  ]
+ },
+ "西北工业大学": {
+  "search_term": "西北工业大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I17145004",
+    "display_name": "Northwestern Polytechnical University",
+    "ror": "https://ror.org/01y0j0j86",
+    "works_count": 144250,
+    "alts": [
+     "Northwestern Polytechnical University",
+     "State Northwest Institute of Engineering",
+     "Xīběi Gōngyè Dàxué",
+     "Северо-западный политехнический университет"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280203",
+    "display_name": "Xi'an Mingde Institute of Technology",
+    "ror": "https://ror.org/02k34gs96",
+    "works_count": 454,
+    "alts": [
+     "Xi'an Mingde Institute of Technology",
+     "西北工业大学明德学院",
+     "西安明德理工学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405281281",
+    "display_name": "Guangxi University of Technology",
+    "ror": "https://ror.org/044g8g895",
+    "works_count": 1177,
+    "alts": [
+     "Beihai College of Beihang University",
+     "Guangxi University of Technology",
+     "北京航空航天大学北海学院",
+     "北航北海学院"
+    ]
+   }
+  ]
+ },
+ "西安电子科技大学": {
+  "search_term": "西安电子科技大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I149594827",
+    "display_name": "Xidian University",
+    "ror": "https://ror.org/05s92vm98",
+    "works_count": 87149,
+    "alts": [
+     "University of Electronic Science and Technology at Xi'an",
+     "Xidian University",
+     "Xīān Diànzǐ Kējì Dàxué",
+     "西安电子科技大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280252",
+    "display_name": "Xi'an Vocational University of Information",
+    "ror": "https://ror.org/02ndaxy14",
+    "works_count": 25,
+    "alts": [
+     "Xi'an Vocational University of Information",
+     "西信大",
+     "西安信息职业大学",
+     "陕西电子科技职业学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280702",
+    "display_name": "Chang'an College, Xidian University",
+    "ror": "https://ror.org/03akbve38",
+    "works_count": 0,
+    "alts": [
+     "Chang'an College, Xidian University",
+     "西安电子科技大学长安学院"
+    ]
+   }
+  ]
+ },
+ "长安大学": {
+  "search_term": "长安大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I25355098",
+    "display_name": "Chang'an University",
+    "ror": "https://ror.org/05mxya461",
+    "works_count": 45465,
+    "alts": [
+     "Chang'an University",
+     "Cháng'ān Dàxué",
+     "长安大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280884",
+    "display_name": "Chang'an University Xinghua College",
+    "ror": "https://ror.org/03j5aqp48",
+    "works_count": 0,
+    "alts": [
+     "Chang'an University Xinghua College",
+     "长安大学兴华学院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405280702",
+    "display_name": "Chang'an College, Xidian University",
+    "ror": "https://ror.org/03akbve38",
+    "works_count": 0,
+    "alts": [
+     "Chang'an College, Xidian University",
+     "西安电子科技大学长安学院"
+    ]
+   }
+  ]
+ },
+ "西北农林科技大学": {
+  "search_term": "西北农林科技大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I89652312",
+    "display_name": "Northwest A&F University",
+    "ror": "https://ror.org/0051rme32",
+    "works_count": 63731,
+    "alts": [
+     "Northwest A&F University",
+     "Xīběi Nónglín Kējì Dàxué",
+     "西北农林科技大学"
+    ]
+   }
+  ]
+ },
+ "陕西师范大学": {
+  "search_term": "陕西师范大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I88830068",
+    "display_name": "Shaanxi Normal University",
+    "ror": "https://ror.org/0170z8493",
+    "works_count": 44183,
+    "alts": [
+     "Shaanxi Normal University",
+     "Shanxi Teachers University",
+     "Shǎnxī Shīfàn Dàxué",
+     "陕西师范大学"
+    ]
+   }
+  ]
+ },
+ "兰州大学": {
+  "search_term": "兰州大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I76214153",
+    "display_name": "Lanzhou University",
+    "ror": "https://ror.org/01mkqqe32",
+    "works_count": 101166,
+    "alts": [
+     "Lanzhou University",
+     "兰州大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210163492",
+    "display_name": "First Hospital of Lanzhou University",
+    "ror": "https://ror.org/05d2xpa49",
+    "works_count": 7592,
+    "alts": [
+     "First Hospital of Lanzhou University",
+     "兰州大学第一医院: 欢迎您| 兰大一院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I3133134087",
+    "display_name": "Lanzhou Jiaotong University",
+    "ror": "https://ror.org/03144pv92",
+    "works_count": 22548,
+    "alts": [
+     "Lanzhou Jiaotong University",
+     "Lanzhou Railway University",
+     "兰州交通大学"
+    ]
+   }
+  ]
+ },
+ "青海大学": {
+  "search_term": "青海大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I116265982",
+    "display_name": "Qinghai University",
+    "ror": "https://ror.org/05h33bt13",
+    "works_count": 16597,
+    "alts": [
+     "Qinghai University",
+     "青海大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210086866",
+    "display_name": "Qinghai University Affiliated Hospital",
+    "ror": "https://ror.org/000j1tr86",
+    "works_count": 2245,
+    "alts": [
+     "Qinghai University Affiliated Hospital",
+     "青海大学附属医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I20616075",
+    "display_name": "Qinghai Normal University",
+    "ror": "https://ror.org/03az1t892",
+    "works_count": 7832,
+    "alts": [
+     "Qing Normal University",
+     "Qinghai Normal University",
+     "青海师范大学"
+    ]
+   }
+  ]
+ },
+ "宁夏大学": {
+  "search_term": "宁夏大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I21642278",
+    "display_name": "Ningxia University",
+    "ror": "https://ror.org/04j7b2v61",
+    "works_count": 20506,
+    "alts": [
+     "Ningxia University",
+     "Níngxià Dàxué",
+     "宁夏大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210127460",
+    "display_name": "Ningxia Medical University",
+    "ror": "https://ror.org/02h8a1848",
+    "works_count": 16084,
+    "alts": [
+     "Ningxia Medical College",
+     "Ningxia Medical University",
+     "宁夏医科大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210139449",
+    "display_name": "Ningxia Medical University General Hospital",
+    "ror": "https://ror.org/049dkqr57",
+    "works_count": 7027,
+    "alts": [
+     "Ningxia Medical University General Hospital",
+     "宁夏医科大学总医院"
+    ]
+   }
+  ]
+ },
+ "新疆大学": {
+  "search_term": "新疆大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I96908189",
+    "display_name": "Xinjiang University",
+    "ror": "https://ror.org/059gw8r13",
+    "works_count": 37248,
+    "alts": [
+     "Xinjiang University",
+     "Xīnjiāng Dàxué",
+     "新疆大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I154093214",
+    "display_name": "Xinjiang Medical University",
+    "ror": "https://ror.org/01p455v08",
+    "works_count": 17931,
+    "alts": [
+     "Shinjang Tibbiy Universitet",
+     "Xinjiang Medical College",
+     "Xinjiang Medical University",
+     "新疆医科大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I2802734952",
+    "display_name": "First Affiliated Hospital of Xinjiang Medical University",
+    "ror": "https://ror.org/02qx1ae98",
+    "works_count": 12169,
+    "alts": [
+     "First Affiliated Hospital of Xinjiang Medical University",
+     "新疆医科大学第一附属医院"
+    ]
+   }
+  ]
+ },
+ "石河子大学": {
+  "search_term": "Shihezi University",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I102208913",
+    "display_name": "Shihezi University",
+    "ror": "https://ror.org/04x0kvm78",
+    "works_count": 27743,
+    "alts": [
+     "Shihezi University",
+     "石河子大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210136213",
+    "display_name": "First Affiliated Hospital of Shihezi University Medical College",
+    "ror": "https://ror.org/03qwdkr25",
+    "works_count": 2956,
+    "alts": [
+     "First Affiliated Hospital of Shihezi University Medical College",
+     "石河子大学医学院第一附属医院"
+    ]
+   }
+  ]
+ },
+ "中国矿业大学(北京)": {
+  "search_term": "China University of Mining and Technology Beijing",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I4399598474",
+    "display_name": "China University of Mining and Technology - Beijing",
+    "ror": "https://ror.org/003ncxf91",
+    "works_count": 26877,
+    "alts": [
+     "China University of Mining and Technology - Beijing",
+     "中国矿业大学（北京）"
+    ]
+   }
+  ]
+ },
+ "中国石油大学(北京)": {
+  "search_term": "China University of Petroleum Beijing",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I204553293",
+    "display_name": "China University of Petroleum, Beijing",
+    "ror": "https://ror.org/041qf4r12",
+    "works_count": 54983,
+    "alts": [
+     "China University of Petroleum (Beijing)",
+     "China University of Petroleum, Beijing",
+     "Zhōngguó Shíyóu Dàxué",
+     "中国石油大学"
+    ]
+   }
+  ]
+ },
+ "中国地质大学(北京)": {
+  "search_term": "China University of Geosciences Beijing",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I3125743391",
+    "display_name": "China University of Geosciences (Beijing)",
+    "ror": "https://ror.org/04q6c7p66",
+    "works_count": 47796,
+    "alts": [
+     "China University of Geosciences (Beijing)",
+     "Zhōngguó Dìzhì Dàxué",
+     "中国地质大学 (北京)"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I3124059619",
+    "display_name": "China University of Geosciences",
+    "ror": "https://ror.org/04gcegc37",
+    "works_count": 123303,
+    "alts": [
+     "Beijing Institute of Geology",
+     "China University of Geosciences",
+     "Hubei College of Geology",
+     "Wuhan College of Geology"
+    ]
+   }
+  ]
+ },
+ "宁波大学": {
+  "search_term": "宁波大学",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I109935558",
+    "display_name": "Ningbo University",
+    "ror": "https://ror.org/03et85d35",
+    "works_count": 62956,
+    "alts": [
+     "Ningbo University",
+     "Níngbō Dàxué",
+     "宁波大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4210153915",
+    "display_name": "Ningbo University Affiliated Hospital",
+    "ror": "https://ror.org/045rymn14",
+    "works_count": 2847,
+    "alts": [
+     "Ningbo University Affiliated Hospital",
+     "宁波大学医学院附属医院"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I13591777",
+    "display_name": "University of Nottingham Ningbo China",
+    "ror": "https://ror.org/03y4dt428",
+    "works_count": 12547,
+    "alts": [
+     "University of Nottingham Ningbo China",
+     "宁波诺丁汉大学"
+    ]
+   }
+  ]
+ },
+ "南方科技大学": {
+  "search_term": "Southern University of Science and Technology",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I3045169105",
+    "display_name": "Southern University of Science and Technology",
+    "ror": "https://ror.org/049tv2d57",
+    "works_count": 63537,
+    "alts": [
+     "South University of Science and Technology of China",
+     "Southern University of Science and Technology",
+     "南方科技大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I92582371",
+    "display_name": "Southern Taiwan University of Science and Technology",
+    "ror": "https://ror.org/0029n1t76",
+    "works_count": 5829,
+    "alts": [
+     "Nántái Kējì Dàxu",
+     "Southern Taiwan University of Science and Technology"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I135396478",
+    "display_name": "University of Science and Technology of Southern Philippines",
+    "ror": "https://ror.org/05rt7ve48",
+    "works_count": 1180,
+    "alts": [
+     "Don Mariano Marcos Memorial Polytechnic State College",
+     "Mindanao School of Arts and Trades",
+     "Mindanao University of Science and Technology",
+     "Misamis Oriental Trade School"
+    ]
+   }
+  ]
+ },
+ "上海科技大学": {
+  "search_term": "ShanghaiTech University",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I30809798",
+    "display_name": "ShanghaiTech University",
+    "ror": "https://ror.org/030bhh786",
+    "works_count": 23952,
+    "alts": [
+     "ShanghaiTech University",
+     "上海科技大学",
+     "上海科技大學"
+    ]
+   }
+  ]
+ },
+ "中国科学院大学": {
+  "search_term": "University of Chinese Academy of Sciences",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I4210165038",
+    "display_name": "University of Chinese Academy of Sciences",
+    "ror": "https://ror.org/05qbk4x57",
+    "works_count": 394910,
+    "alts": [
+     "University of Chinese Academy of Sciences",
+     "中国科学院大学"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4405270142",
+    "display_name": "Wenzhou Institute, University of Chinese Academy of Sciences",
+    "ror": "https://ror.org/004vy8c88",
+    "works_count": 3172,
+    "alts": [
+     "Wenzhou Institute of Biomaterials and Engineering",
+     "Wenzhou Institute, UCAS",
+     "Wenzhou Institute, University of Chinese Academy of Sciences",
+     "中国科学院温州生物材料与工程研究所"
+    ]
+   },
+   {
+    "id": "https://openalex.org/I4391012565",
+    "display_name": "University of Chinese Academy of Social Sciences",
+    "ror": "https://ror.org/03va9g668",
+    "works_count": 1166,
+    "alts": [
+     "University of Chinese Academy of Social Sciences",
+     "中国社会科学院大学"
+    ]
+   }
+  ]
+ },
+ "国防科技大学": {
+  "search_term": "National University of Defense Technology",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I170215575",
+    "display_name": "National University of Defense Technology",
+    "ror": "https://ror.org/05d2yfz11",
+    "works_count": 91605,
+    "alts": [
+     "Guófáng Kēxuéjìshù Dàxué",
+     "National University of Defense Technology",
+     "中国人民解放军国防科学技术大学"
+    ]
+   }
+  ]
+ },
+ "海军军医大学": {
+  "search_term": "Naval Medical University",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I177933477",
+    "display_name": "Second Military Medical University",
+    "ror": "https://ror.org/04tavpn47",
+    "works_count": 51985,
+    "alts": [
+     "People's Liberation Army Naval Medical University",
+     "Second Military Medical University",
+     "中国人民解放军海军军医大学",
+     "中国人民解放军第二军医大学"
+    ]
+   }
+  ]
+ },
+ "空军军医大学": {
+  "search_term": "Air Force Medical University",
+  "candidates": [
+   {
+    "id": "https://openalex.org/I9916479",
+    "display_name": "Air Force Medical University",
+    "ror": "https://ror.org/00ms48f15",
+    "works_count": 55764,
+    "alts": [
+     "Air Force Medical University",
+     "First Military Medical College of PLA",
+     "Fourth Military Medical University",
+     "People's Medical College of Northwestern Military Region"
+    ]
+   }
+  ]
+ }
+}

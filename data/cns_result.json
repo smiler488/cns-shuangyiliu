@@ -1,0 +1,2147 @@
+{
+ "total_works": 3166,
+ "rows": [
+  {
+   "school": "中国科学院大学",
+   "calA_strict": 2,
+   "calB_firstall": 202,
+   "calC_firstcorr": 365,
+   "by_year": {
+    "2022": 45,
+    "2023": 74,
+    "2025": 91,
+    "2024": 76,
+    "2026": 79
+   },
+   "by_journal": {
+    "Science": 118,
+    "Nature": 148,
+    "Cell": 99
+   }
+  },
+  {
+   "school": "清华大学",
+   "calA_strict": 98,
+   "calB_firstall": 212,
+   "calC_firstcorr": 293,
+   "by_year": {
+    "2025": 73,
+    "2022": 49,
+    "2023": 42,
+    "2024": 56,
+    "2026": 73
+   },
+   "by_journal": {
+    "Science": 78,
+    "Nature": 139,
+    "Cell": 76
+   }
+  },
+  {
+   "school": "北京大学",
+   "calA_strict": 150,
+   "calB_firstall": 172,
+   "calC_firstcorr": 251,
+   "by_year": {
+    "2022": 29,
+    "2023": 41,
+    "2024": 51,
+    "2025": 60,
+    "2026": 70
+   },
+   "by_journal": {
+    "Nature": 126,
+    "Science": 64,
+    "Cell": 61
+   }
+  },
+  {
+   "school": "浙江大学",
+   "calA_strict": 52,
+   "calB_firstall": 116,
+   "calC_firstcorr": 166,
+   "by_year": {
+    "2023": 30,
+    "2024": 38,
+    "2022": 22,
+    "2025": 43,
+    "2026": 33
+   },
+   "by_journal": {
+    "Nature": 81,
+    "Science": 58,
+    "Cell": 27
+   }
+  },
+  {
+   "school": "上海交通大学",
+   "calA_strict": 78,
+   "calB_firstall": 85,
+   "calC_firstcorr": 148,
+   "by_year": {
+    "2024": 28,
+    "2022": 19,
+    "2023": 24,
+    "2025": 33,
+    "2026": 44
+   },
+   "by_journal": {
+    "Science": 47,
+    "Nature": 64,
+    "Cell": 37
+   }
+  },
+  {
+   "school": "复旦大学",
+   "calA_strict": 60,
+   "calB_firstall": 86,
+   "calC_firstcorr": 128,
+   "by_year": {
+    "2023": 21,
+    "2024": 21,
+    "2025": 35,
+    "2022": 14,
+    "2026": 37
+   },
+   "by_journal": {
+    "Nature": 56,
+    "Cell": 31,
+    "Science": 41
+   }
+  },
+  {
+   "school": "中国科学技术大学",
+   "calA_strict": 79,
+   "calB_firstall": 80,
+   "calC_firstcorr": 111,
+   "by_year": {
+    "2023": 21,
+    "2022": 11,
+    "2024": 21,
+    "2025": 27,
+    "2026": 31
+   },
+   "by_journal": {
+    "Nature": 59,
+    "Science": 38,
+    "Cell": 14
+   }
+  },
+  {
+   "school": "南方科技大学",
+   "calA_strict": 42,
+   "calB_firstall": 50,
+   "calC_firstcorr": 86,
+   "by_year": {
+    "2023": 15,
+    "2022": 9,
+    "2024": 20,
+    "2025": 19,
+    "2026": 23
+   },
+   "by_journal": {
+    "Nature": 45,
+    "Science": 28,
+    "Cell": 13
+   }
+  },
+  {
+   "school": "南京大学",
+   "calA_strict": 20,
+   "calB_firstall": 54,
+   "calC_firstcorr": 79,
+   "by_year": {
+    "2023": 11,
+    "2022": 15,
+    "2024": 18,
+    "2025": 18,
+    "2026": 17
+   },
+   "by_journal": {
+    "Nature": 48,
+    "Cell": 3,
+    "Science": 28
+   }
+  },
+  {
+   "school": "上海科技大学",
+   "calA_strict": 14,
+   "calB_firstall": 23,
+   "calC_firstcorr": 79,
+   "by_year": {
+    "2024": 17,
+    "2022": 12,
+    "2023": 9,
+    "2025": 18,
+    "2026": 23
+   },
+   "by_journal": {
+    "Science": 18,
+    "Cell": 28,
+    "Nature": 33
+   }
+  },
+  {
+   "school": "北京协和医学院",
+   "calA_strict": 17,
+   "calB_firstall": 22,
+   "calC_firstcorr": 59,
+   "by_year": {
+    "2024": 15,
+    "2023": 11,
+    "2022": 6,
+    "2025": 10,
+    "2026": 17
+   },
+   "by_journal": {
+    "Cell": 21,
+    "Nature": 28,
+    "Science": 10
+   }
+  },
+  {
+   "school": "中山大学",
+   "calA_strict": 30,
+   "calB_firstall": 32,
+   "calC_firstcorr": 49,
+   "by_year": {
+    "2023": 5,
+    "2024": 11,
+    "2022": 7,
+    "2025": 13,
+    "2026": 13
+   },
+   "by_journal": {
+    "Nature": 24,
+    "Cell": 14,
+    "Science": 11
+   }
+  },
+  {
+   "school": "武汉大学",
+   "calA_strict": 25,
+   "calB_firstall": 31,
+   "calC_firstcorr": 48,
+   "by_year": {
+    "2023": 11,
+    "2022": 7,
+    "2024": 14,
+    "2025": 6,
+    "2026": 10
+   },
+   "by_journal": {
+    "Nature": 22,
+    "Science": 15,
+    "Cell": 11
+   }
+  },
+  {
+   "school": "四川大学",
+   "calA_strict": 27,
+   "calB_firstall": 32,
+   "calC_firstcorr": 46,
+   "by_year": {
+    "2022": 3,
+    "2023": 8,
+    "2025": 16,
+    "2024": 7,
+    "2026": 12
+   },
+   "by_journal": {
+    "Nature": 21,
+    "Science": 13,
+    "Cell": 12
+   }
+  },
+  {
+   "school": "山东大学",
+   "calA_strict": 19,
+   "calB_firstall": 19,
+   "calC_firstcorr": 36,
+   "by_year": {
+    "2022": 3,
+    "2024": 7,
+    "2023": 5,
+    "2025": 11,
+    "2026": 10
+   },
+   "by_journal": {
+    "Science": 6,
+    "Nature": 20,
+    "Cell": 10
+   }
+  },
+  {
+   "school": "华中科技大学",
+   "calA_strict": 8,
+   "calB_firstall": 25,
+   "calC_firstcorr": 35,
+   "by_year": {
+    "2023": 8,
+    "2024": 9,
+    "2025": 6,
+    "2022": 1,
+    "2026": 11
+   },
+   "by_journal": {
+    "Science": 14,
+    "Nature": 18,
+    "Cell": 3
+   }
+  },
+  {
+   "school": "中国农业大学",
+   "calA_strict": 14,
+   "calB_firstall": 23,
+   "calC_firstcorr": 31,
+   "by_year": {
+    "2023": 4,
+    "2022": 3,
+    "2024": 4,
+    "2025": 9,
+    "2026": 11
+   },
+   "by_journal": {
+    "Science": 7,
+    "Nature": 13,
+    "Cell": 11
+   }
+  },
+  {
+   "school": "西安交通大学",
+   "calA_strict": 18,
+   "calB_firstall": 22,
+   "calC_firstcorr": 31,
+   "by_year": {
+    "2023": 4,
+    "2022": 6,
+    "2025": 9,
+    "2024": 4,
+    "2026": 8
+   },
+   "by_journal": {
+    "Science": 15,
+    "Nature": 14,
+    "Cell": 2
+   }
+  },
+  {
+   "school": "北京师范大学",
+   "calA_strict": 13,
+   "calB_firstall": 17,
+   "calC_firstcorr": 30,
+   "by_year": {
+    "2023": 5,
+    "2022": 6,
+    "2025": 5,
+    "2024": 4,
+    "2026": 10
+   },
+   "by_journal": {
+    "Science": 11,
+    "Nature": 15,
+    "Cell": 4
+   }
+  },
+  {
+   "school": "吉林大学",
+   "calA_strict": 6,
+   "calB_firstall": 9,
+   "calC_firstcorr": 29,
+   "by_year": {
+    "2023": 5,
+    "2024": 6,
+    "2022": 4,
+    "2025": 5,
+    "2026": 9
+   },
+   "by_journal": {
+    "Science": 8,
+    "Nature": 18,
+    "Cell": 3
+   }
+  },
+  {
+   "school": "厦门大学",
+   "calA_strict": 21,
+   "calB_firstall": 22,
+   "calC_firstcorr": 29,
+   "by_year": {
+    "2023": 7,
+    "2022": 4,
+    "2024": 6,
+    "2025": 3,
+    "2026": 9
+   },
+   "by_journal": {
+    "Nature": 17,
+    "Science": 8,
+    "Cell": 4
+   }
+  },
+  {
+   "school": "北京航空航天大学",
+   "calA_strict": 16,
+   "calB_firstall": 21,
+   "calC_firstcorr": 27,
+   "by_year": {
+    "2023": 3,
+    "2022": 2,
+    "2024": 10,
+    "2025": 8,
+    "2026": 4
+   },
+   "by_journal": {
+    "Science": 13,
+    "Nature": 13,
+    "Cell": 1
+   }
+  },
+  {
+   "school": "北京理工大学",
+   "calA_strict": 15,
+   "calB_firstall": 15,
+   "calC_firstcorr": 27,
+   "by_year": {
+    "2022": 6,
+    "2023": 3,
+    "2024": 8,
+    "2025": 4,
+    "2026": 6
+   },
+   "by_journal": {
+    "Science": 13,
+    "Nature": 11,
+    "Cell": 3
+   }
+  },
+  {
+   "school": "南开大学",
+   "calA_strict": 13,
+   "calB_firstall": 15,
+   "calC_firstcorr": 27,
+   "by_year": {
+    "2022": 3,
+    "2024": 6,
+    "2023": 5,
+    "2025": 6,
+    "2026": 7
+   },
+   "by_journal": {
+    "Nature": 13,
+    "Cell": 6,
+    "Science": 8
+   }
+  },
+  {
+   "school": "华东师范大学",
+   "calA_strict": 12,
+   "calB_firstall": 17,
+   "calC_firstcorr": 27,
+   "by_year": {
+    "2022": 6,
+    "2024": 2,
+    "2023": 4,
+    "2025": 6,
+    "2026": 9
+   },
+   "by_journal": {
+    "Nature": 16,
+    "Cell": 2,
+    "Science": 9
+   }
+  },
+  {
+   "school": "华南理工大学",
+   "calA_strict": 1,
+   "calB_firstall": 14,
+   "calC_firstcorr": 26,
+   "by_year": {
+    "2022": 5,
+    "2025": 6,
+    "2023": 2,
+    "2024": 2,
+    "2026": 11
+   },
+   "by_journal": {
+    "Nature": 14,
+    "Science": 10,
+    "Cell": 2
+   }
+  },
+  {
+   "school": "华中农业大学",
+   "calA_strict": 18,
+   "calB_firstall": 19,
+   "calC_firstcorr": 25,
+   "by_year": {
+    "2023": 5,
+    "2022": 2,
+    "2024": 4,
+    "2025": 3,
+    "2026": 11
+   },
+   "by_journal": {
+    "Science": 12,
+    "Nature": 4,
+    "Cell": 9
+   }
+  },
+  {
+   "school": "东南大学",
+   "calA_strict": 4,
+   "calB_firstall": 11,
+   "calC_firstcorr": 24,
+   "by_year": {
+    "2023": 3,
+    "2022": 1,
+    "2024": 2,
+    "2025": 10,
+    "2026": 8
+   },
+   "by_journal": {
+    "Nature": 12,
+    "Science": 8,
+    "Cell": 4
+   }
+  },
+  {
+   "school": "苏州大学",
+   "calA_strict": 13,
+   "calB_firstall": 15,
+   "calC_firstcorr": 23,
+   "by_year": {
+    "2024": 8,
+    "2023": 1,
+    "2025": 4,
+    "2022": 2,
+    "2026": 8
+   },
+   "by_journal": {
+    "Cell": 2,
+    "Nature": 16,
+    "Science": 5
+   }
+  },
+  {
+   "school": "同济大学",
+   "calA_strict": 15,
+   "calB_firstall": 15,
+   "calC_firstcorr": 22,
+   "by_year": {
+    "2023": 3,
+    "2024": 5,
+    "2022": 3,
+    "2025": 8,
+    "2026": 3
+   },
+   "by_journal": {
+    "Cell": 7,
+    "Nature": 10,
+    "Science": 5
+   }
+  },
+  {
+   "school": "哈尔滨工业大学",
+   "calA_strict": 12,
+   "calB_firstall": 13,
+   "calC_firstcorr": 20,
+   "by_year": {
+    "2023": 6,
+    "2022": 4,
+    "2024": 1,
+    "2025": 4,
+    "2026": 5
+   },
+   "by_journal": {
+    "Nature": 8,
+    "Science": 11,
+    "Cell": 1
+   }
+  },
+  {
+   "school": "中南大学",
+   "calA_strict": 11,
+   "calB_firstall": 11,
+   "calC_firstcorr": 19,
+   "by_year": {
+    "2022": 2,
+    "2024": 5,
+    "2025": 3,
+    "2026": 8,
+    "2023": 1
+   },
+   "by_journal": {
+    "Nature": 9,
+    "Science": 6,
+    "Cell": 4
+   }
+  },
+  {
+   "school": "广州医科大学",
+   "calA_strict": 0,
+   "calB_firstall": 9,
+   "calC_firstcorr": 19,
+   "by_year": {
+    "2024": 5,
+    "2022": 1,
+    "2025": 4,
+    "2023": 1,
+    "2026": 8
+   },
+   "by_journal": {
+    "Nature": 4,
+    "Cell": 15
+   }
+  },
+  {
+   "school": "云南大学",
+   "calA_strict": 12,
+   "calB_firstall": 13,
+   "calC_firstcorr": 19,
+   "by_year": {
+    "2022": 3,
+    "2024": 3,
+    "2023": 6,
+    "2025": 3,
+    "2026": 4
+   },
+   "by_journal": {
+    "Science": 12,
+    "Nature": 7
+   }
+  },
+  {
+   "school": "南京农业大学",
+   "calA_strict": 13,
+   "calB_firstall": 13,
+   "calC_firstcorr": 18,
+   "by_year": {
+    "2022": 5,
+    "2024": 2,
+    "2023": 1,
+    "2025": 2,
+    "2026": 8
+   },
+   "by_journal": {
+    "Cell": 4,
+    "Nature": 5,
+    "Science": 9
+   }
+  },
+  {
+   "school": "郑州大学",
+   "calA_strict": 6,
+   "calB_firstall": 6,
+   "calC_firstcorr": 18,
+   "by_year": {
+    "2022": 5,
+    "2023": 2,
+    "2024": 2,
+    "2026": 8,
+    "2025": 1
+   },
+   "by_journal": {
+    "Cell": 2,
+    "Science": 7,
+    "Nature": 9
+   }
+  },
+  {
+   "school": "海南大学",
+   "calA_strict": 10,
+   "calB_firstall": 12,
+   "calC_firstcorr": 16,
+   "by_year": {
+    "2022": 1,
+    "2024": 6,
+    "2025": 3,
+    "2023": 2,
+    "2026": 4
+   },
+   "by_journal": {
+    "Science": 10,
+    "Cell": 1,
+    "Nature": 5
+   }
+  },
+  {
+   "school": "北京化工大学",
+   "calA_strict": 0,
+   "calB_firstall": 5,
+   "calC_firstcorr": 15,
+   "by_year": {
+    "2025": 4,
+    "2024": 4,
+    "2023": 5,
+    "2022": 1,
+    "2026": 1
+   },
+   "by_journal": {
+    "Nature": 5,
+    "Science": 6,
+    "Cell": 4
+   }
+  },
+  {
+   "school": "天津大学",
+   "calA_strict": 10,
+   "calB_firstall": 10,
+   "calC_firstcorr": 15,
+   "by_year": {
+    "2022": 1,
+    "2024": 3,
+    "2023": 2,
+    "2025": 5,
+    "2026": 4
+   },
+   "by_journal": {
+    "Science": 8,
+    "Nature": 7
+   }
+  },
+  {
+   "school": "中国人民大学",
+   "calA_strict": 6,
+   "calB_firstall": 10,
+   "calC_firstcorr": 14,
+   "by_year": {
+    "2022": 2,
+    "2024": 2,
+    "2025": 6,
+    "2023": 1,
+    "2026": 3
+   },
+   "by_journal": {
+    "Science": 8,
+    "Nature": 6
+   }
+  },
+  {
+   "school": "电子科技大学",
+   "calA_strict": 8,
+   "calB_firstall": 11,
+   "calC_firstcorr": 14,
+   "by_year": {
+    "2022": 4,
+    "2025": 2,
+    "2023": 2,
+    "2024": 2,
+    "2026": 4
+   },
+   "by_journal": {
+    "Science": 5,
+    "Nature": 7,
+    "Cell": 2
+   }
+  },
+  {
+   "school": "山西大学",
+   "calA_strict": 2,
+   "calB_firstall": 2,
+   "calC_firstcorr": 13,
+   "by_year": {
+    "2022": 1,
+    "2024": 5,
+    "2023": 1,
+    "2025": 4,
+    "2026": 2
+   },
+   "by_journal": {
+    "Science": 5,
+    "Nature": 8
+   }
+  },
+  {
+   "school": "上海大学",
+   "calA_strict": 9,
+   "calB_firstall": 9,
+   "calC_firstcorr": 13,
+   "by_year": {
+    "2024": 2,
+    "2023": 2,
+    "2025": 3,
+    "2026": 5,
+    "2022": 1
+   },
+   "by_journal": {
+    "Science": 5,
+    "Nature": 8
+   }
+  },
+  {
+   "school": "中国地质大学(武汉)",
+   "calA_strict": 8,
+   "calB_firstall": 13,
+   "calC_firstcorr": 13,
+   "by_year": {
+    "2023": 3,
+    "2022": 1,
+    "2024": 3,
+    "2025": 3,
+    "2026": 3
+   },
+   "by_journal": {
+    "Nature": 4,
+    "Science": 9
+   }
+  },
+  {
+   "school": "南京医科大学",
+   "calA_strict": 2,
+   "calB_firstall": 7,
+   "calC_firstcorr": 12,
+   "by_year": {
+    "2022": 3,
+    "2023": 2,
+    "2025": 3,
+    "2024": 1,
+    "2026": 3
+   },
+   "by_journal": {
+    "Science": 3,
+    "Nature": 5,
+    "Cell": 4
+   }
+  },
+  {
+   "school": "兰州大学",
+   "calA_strict": 2,
+   "calB_firstall": 5,
+   "calC_firstcorr": 12,
+   "by_year": {
+    "2024": 2,
+    "2023": 2,
+    "2025": 4,
+    "2026": 4
+   },
+   "by_journal": {
+    "Science": 5,
+    "Nature": 5,
+    "Cell": 2
+   }
+  },
+  {
+   "school": "南昌大学",
+   "calA_strict": 7,
+   "calB_firstall": 7,
+   "calC_firstcorr": 11,
+   "by_year": {
+    "2024": 3,
+    "2025": 2,
+    "2026": 6
+   },
+   "by_journal": {
+    "Nature": 5,
+    "Cell": 2,
+    "Science": 4
+   }
+  },
+  {
+   "school": "福州大学",
+   "calA_strict": 4,
+   "calB_firstall": 5,
+   "calC_firstcorr": 10,
+   "by_year": {
+    "2022": 1,
+    "2023": 2,
+    "2025": 4,
+    "2026": 3
+   },
+   "by_journal": {
+    "Science": 5,
+    "Nature": 4,
+    "Cell": 1
+   }
+  },
+  {
+   "school": "西北农林科技大学",
+   "calA_strict": 3,
+   "calB_firstall": 6,
+   "calC_firstcorr": 10,
+   "by_year": {
+    "2022": 2,
+    "2023": 2,
+    "2024": 2,
+    "2025": 3,
+    "2026": 1
+   },
+   "by_journal": {
+    "Science": 5,
+    "Cell": 2,
+    "Nature": 3
+   }
+  },
+  {
+   "school": "华东理工大学",
+   "calA_strict": 6,
+   "calB_firstall": 6,
+   "calC_firstcorr": 9,
+   "by_year": {
+    "2023": 2,
+    "2022": 1,
+    "2025": 4,
+    "2024": 1,
+    "2026": 1
+   },
+   "by_journal": {
+    "Science": 5,
+    "Nature": 3,
+    "Cell": 1
+   }
+  },
+  {
+   "school": "南京林业大学",
+   "calA_strict": 9,
+   "calB_firstall": 9,
+   "calC_firstcorr": 9,
+   "by_year": {
+    "2022": 2,
+    "2023": 2,
+    "2026": 5
+   },
+   "by_journal": {
+    "Science": 8,
+    "Nature": 1
+   }
+  },
+  {
+   "school": "南京师范大学",
+   "calA_strict": 5,
+   "calB_firstall": 5,
+   "calC_firstcorr": 9,
+   "by_year": {
+    "2023": 2,
+    "2025": 3,
+    "2026": 4
+   },
+   "by_journal": {
+    "Science": 4,
+    "Nature": 4,
+    "Cell": 1
+   }
+  },
+  {
+   "school": "湖南大学",
+   "calA_strict": 5,
+   "calB_firstall": 5,
+   "calC_firstcorr": 9,
+   "by_year": {
+    "2022": 1,
+    "2023": 2,
+    "2024": 2,
+    "2025": 1,
+    "2026": 3
+   },
+   "by_journal": {
+    "Nature": 5,
+    "Science": 4
+   }
+  },
+  {
+   "school": "北京工业大学",
+   "calA_strict": 6,
+   "calB_firstall": 6,
+   "calC_firstcorr": 8,
+   "by_year": {
+    "2024": 3,
+    "2022": 1,
+    "2023": 1,
+    "2025": 2,
+    "2026": 1
+   },
+   "by_journal": {
+    "Nature": 3,
+    "Science": 5
+   }
+  },
+  {
+   "school": "北京科技大学",
+   "calA_strict": 1,
+   "calB_firstall": 3,
+   "calC_firstcorr": 8,
+   "by_year": {
+    "2024": 2,
+    "2022": 1,
+    "2023": 2,
+    "2025": 1,
+    "2026": 2
+   },
+   "by_journal": {
+    "Science": 7,
+    "Nature": 1
+   }
+  },
+  {
+   "school": "天津医科大学",
+   "calA_strict": 1,
+   "calB_firstall": 5,
+   "calC_firstcorr": 8,
+   "by_year": {
+    "2022": 1,
+    "2024": 1,
+    "2025": 2,
+    "2026": 4
+   },
+   "by_journal": {
+    "Cell": 5,
+    "Nature": 2,
+    "Science": 1
+   }
+  },
+  {
+   "school": "大连理工大学",
+   "calA_strict": 1,
+   "calB_firstall": 1,
+   "calC_firstcorr": 8,
+   "by_year": {
+    "2022": 2,
+    "2024": 2,
+    "2023": 1,
+    "2025": 2,
+    "2026": 1
+   },
+   "by_journal": {
+    "Nature": 2,
+    "Science": 5,
+    "Cell": 1
+   }
+  },
+  {
+   "school": "南京中医药大学",
+   "calA_strict": 1,
+   "calB_firstall": 2,
+   "calC_firstcorr": 8,
+   "by_year": {
+    "2022": 2,
+    "2025": 2,
+    "2024": 1,
+    "2023": 1,
+    "2026": 2
+   },
+   "by_journal": {
+    "Cell": 2,
+    "Science": 1,
+    "Nature": 5
+   }
+  },
+  {
+   "school": "中国海洋大学",
+   "calA_strict": 4,
+   "calB_firstall": 7,
+   "calC_firstcorr": 8,
+   "by_year": {
+    "2023": 4,
+    "2025": 2,
+    "2026": 2
+   },
+   "by_journal": {
+    "Nature": 4,
+    "Science": 4
+   }
+  },
+  {
+   "school": "西北工业大学",
+   "calA_strict": 3,
+   "calB_firstall": 5,
+   "calC_firstcorr": 8,
+   "by_year": {
+    "2024": 1,
+    "2022": 2,
+    "2023": 2,
+    "2025": 3
+   },
+   "by_journal": {
+    "Nature": 3,
+    "Science": 4,
+    "Cell": 1
+   }
+  },
+  {
+   "school": "空军军医大学",
+   "calA_strict": 4,
+   "calB_firstall": 6,
+   "calC_firstcorr": 8,
+   "by_year": {
+    "2024": 1,
+    "2023": 4,
+    "2025": 2,
+    "2022": 1
+   },
+   "by_journal": {
+    "Cell": 3,
+    "Nature": 2,
+    "Science": 3
+   }
+  },
+  {
+   "school": "河南大学",
+   "calA_strict": 3,
+   "calB_firstall": 4,
+   "calC_firstcorr": 7,
+   "by_year": {
+    "2023": 2,
+    "2024": 1,
+    "2025": 2,
+    "2022": 1,
+    "2026": 1
+   },
+   "by_journal": {
+    "Science": 2,
+    "Nature": 5
+   }
+  },
+  {
+   "school": "武汉理工大学",
+   "calA_strict": 3,
+   "calB_firstall": 4,
+   "calC_firstcorr": 7,
+   "by_year": {
+    "2023": 2,
+    "2022": 1,
+    "2024": 1,
+    "2025": 1,
+    "2026": 2
+   },
+   "by_journal": {
+    "Science": 4,
+    "Nature": 3
+   }
+  },
+  {
+   "school": "华南农业大学",
+   "calA_strict": 3,
+   "calB_firstall": 3,
+   "calC_firstcorr": 7,
+   "by_year": {
+    "2024": 1,
+    "2025": 3,
+    "2026": 3
+   },
+   "by_journal": {
+    "Science": 4,
+    "Cell": 3
+   }
+  },
+  {
+   "school": "重庆大学",
+   "calA_strict": 3,
+   "calB_firstall": 3,
+   "calC_firstcorr": 7,
+   "by_year": {
+    "2024": 2,
+    "2025": 1,
+    "2023": 1,
+    "2026": 3
+   },
+   "by_journal": {
+    "Nature": 5,
+    "Science": 2
+   }
+  },
+  {
+   "school": "西北大学",
+   "calA_strict": 2,
+   "calB_firstall": 3,
+   "calC_firstcorr": 7,
+   "by_year": {
+    "2022": 1,
+    "2023": 2,
+    "2024": 2,
+    "2026": 2
+   },
+   "by_journal": {
+    "Nature": 3,
+    "Science": 4
+   }
+  },
+  {
+   "school": "南京理工大学",
+   "calA_strict": 1,
+   "calB_firstall": 1,
+   "calC_firstcorr": 6,
+   "by_year": {
+    "2023": 1,
+    "2024": 1,
+    "2022": 2,
+    "2025": 1,
+    "2026": 1
+   },
+   "by_journal": {
+    "Nature": 4,
+    "Science": 2
+   }
+  },
+  {
+   "school": "暨南大学",
+   "calA_strict": 3,
+   "calB_firstall": 3,
+   "calC_firstcorr": 6,
+   "by_year": {
+    "2022": 1,
+    "2025": 1,
+    "2023": 1,
+    "2026": 3
+   },
+   "by_journal": {
+    "Cell": 4,
+    "Nature": 1,
+    "Science": 1
+   }
+  },
+  {
+   "school": "贵州大学",
+   "calA_strict": 3,
+   "calB_firstall": 3,
+   "calC_firstcorr": 6,
+   "by_year": {
+    "2025": 1,
+    "2023": 3,
+    "2026": 1,
+    "2022": 1
+   },
+   "by_journal": {
+    "Science": 5,
+    "Nature": 1
+   }
+  },
+  {
+   "school": "国防科技大学",
+   "calA_strict": 4,
+   "calB_firstall": 5,
+   "calC_firstcorr": 6,
+   "by_year": {
+    "2025": 2,
+    "2024": 2,
+    "2026": 2
+   },
+   "by_journal": {
+    "Nature": 5,
+    "Cell": 1
+   }
+  },
+  {
+   "school": "南京航空航天大学",
+   "calA_strict": 3,
+   "calB_firstall": 3,
+   "calC_firstcorr": 5,
+   "by_year": {
+    "2024": 1,
+    "2025": 3,
+    "2023": 1
+   },
+   "by_journal": {
+    "Science": 4,
+    "Nature": 1
+   }
+  },
+  {
+   "school": "河海大学",
+   "calA_strict": 4,
+   "calB_firstall": 4,
+   "calC_firstcorr": 5,
+   "by_year": {
+    "2023": 1,
+    "2025": 2,
+    "2024": 1,
+    "2026": 1
+   },
+   "by_journal": {
+    "Science": 5
+   }
+  },
+  {
+   "school": "中国药科大学",
+   "calA_strict": 2,
+   "calB_firstall": 2,
+   "calC_firstcorr": 5,
+   "by_year": {
+    "2023": 1,
+    "2022": 1,
+    "2024": 2,
+    "2025": 1
+   },
+   "by_journal": {
+    "Nature": 3,
+    "Science": 2
+   }
+  },
+  {
+   "school": "安徽大学",
+   "calA_strict": 2,
+   "calB_firstall": 3,
+   "calC_firstcorr": 5,
+   "by_year": {
+    "2023": 1,
+    "2024": 2,
+    "2026": 2
+   },
+   "by_journal": {
+    "Science": 3,
+    "Nature": 2
+   }
+  },
+  {
+   "school": "华南师范大学",
+   "calA_strict": 3,
+   "calB_firstall": 3,
+   "calC_firstcorr": 5,
+   "by_year": {
+    "2022": 3,
+    "2024": 1,
+    "2026": 1
+   },
+   "by_journal": {
+    "Science": 3,
+    "Nature": 2
+   }
+  },
+  {
+   "school": "广西大学",
+   "calA_strict": 2,
+   "calB_firstall": 3,
+   "calC_firstcorr": 5,
+   "by_year": {
+    "2025": 1,
+    "2022": 1,
+    "2026": 3
+   },
+   "by_journal": {
+    "Nature": 4,
+    "Science": 1
+   }
+  },
+  {
+   "school": "成都理工大学",
+   "calA_strict": 3,
+   "calB_firstall": 4,
+   "calC_firstcorr": 5,
+   "by_year": {
+    "2023": 2,
+    "2025": 2,
+    "2026": 1
+   },
+   "by_journal": {
+    "Nature": 2,
+    "Science": 3
+   }
+  },
+  {
+   "school": "西南大学",
+   "calA_strict": 3,
+   "calB_firstall": 3,
+   "calC_firstcorr": 5,
+   "by_year": {
+    "2025": 2,
+    "2026": 2,
+    "2024": 1
+   },
+   "by_journal": {
+    "Science": 3,
+    "Nature": 2
+   }
+  },
+  {
+   "school": "陕西师范大学",
+   "calA_strict": 4,
+   "calB_firstall": 4,
+   "calC_firstcorr": 5,
+   "by_year": {
+    "2024": 2,
+    "2023": 2,
+    "2026": 1
+   },
+   "by_journal": {
+    "Science": 3,
+    "Nature": 2
+   }
+  },
+  {
+   "school": "海军军医大学",
+   "calA_strict": 3,
+   "calB_firstall": 3,
+   "calC_firstcorr": 5,
+   "by_year": {
+    "2024": 1,
+    "2025": 2,
+    "2026": 2
+   },
+   "by_journal": {
+    "Cell": 4,
+    "Science": 1
+   }
+  },
+  {
+   "school": "北京林业大学",
+   "calA_strict": 2,
+   "calB_firstall": 2,
+   "calC_firstcorr": 4,
+   "by_year": {
+    "2024": 2,
+    "2025": 2
+   },
+   "by_journal": {
+    "Cell": 1,
+    "Nature": 1,
+    "Science": 2
+   }
+  },
+  {
+   "school": "首都师范大学",
+   "calA_strict": 1,
+   "calB_firstall": 2,
+   "calC_firstcorr": 4,
+   "by_year": {
+    "2023": 1,
+    "2026": 3
+   },
+   "by_journal": {
+    "Cell": 3,
+    "Science": 1
+   }
+  },
+  {
+   "school": "东北林业大学",
+   "calA_strict": 0,
+   "calB_firstall": 1,
+   "calC_firstcorr": 4,
+   "by_year": {
+    "2023": 1,
+    "2025": 2,
+    "2026": 1
+   },
+   "by_journal": {
+    "Science": 2,
+    "Cell": 2
+   }
+  },
+  {
+   "school": "南京信息工程大学",
+   "calA_strict": 3,
+   "calB_firstall": 3,
+   "calC_firstcorr": 4,
+   "by_year": {
+    "2023": 4
+   },
+   "by_journal": {
+    "Science": 3,
+    "Nature": 1
+   }
+  },
+  {
+   "school": "华中师范大学",
+   "calA_strict": 1,
+   "calB_firstall": 1,
+   "calC_firstcorr": 4,
+   "by_year": {
+    "2025": 1,
+    "2026": 3
+   },
+   "by_journal": {
+    "Science": 2,
+    "Nature": 2
+   }
+  },
+  {
+   "school": "四川农业大学",
+   "calA_strict": 2,
+   "calB_firstall": 4,
+   "calC_firstcorr": 4,
+   "by_year": {
+    "2026": 4
+   },
+   "by_journal": {
+    "Nature": 4
+   }
+  },
+  {
+   "school": "华北电力大学",
+   "calA_strict": 1,
+   "calB_firstall": 1,
+   "calC_firstcorr": 3,
+   "by_year": {
+    "2023": 1,
+    "2024": 2
+   },
+   "by_journal": {
+    "Nature": 2,
+    "Science": 1
+   }
+  },
+  {
+   "school": "河北工业大学",
+   "calA_strict": 1,
+   "calB_firstall": 1,
+   "calC_firstcorr": 3,
+   "by_year": {
+    "2025": 2,
+    "2026": 1
+   },
+   "by_journal": {
+    "Nature": 3
+   }
+  },
+  {
+   "school": "内蒙古大学",
+   "calA_strict": 0,
+   "calB_firstall": 1,
+   "calC_firstcorr": 3,
+   "by_year": {
+    "2025": 3
+   },
+   "by_journal": {
+    "Science": 2,
+    "Cell": 1
+   }
+  },
+  {
+   "school": "辽宁大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 3,
+   "by_year": {
+    "2022": 1,
+    "2025": 1,
+    "2024": 1
+   },
+   "by_journal": {
+    "Science": 2,
+    "Nature": 1
+   }
+  },
+  {
+   "school": "上海中医药大学",
+   "calA_strict": 0,
+   "calB_firstall": 1,
+   "calC_firstcorr": 3,
+   "by_year": {
+    "2026": 2,
+    "2025": 1
+   },
+   "by_journal": {
+    "Cell": 1,
+    "Science": 1,
+    "Nature": 1
+   }
+  },
+  {
+   "school": "合肥工业大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 3,
+   "by_year": {
+    "2023": 1,
+    "2025": 1,
+    "2026": 1
+   },
+   "by_journal": {
+    "Science": 2,
+    "Nature": 1
+   }
+  },
+  {
+   "school": "湖南师范大学",
+   "calA_strict": 1,
+   "calB_firstall": 1,
+   "calC_firstcorr": 3,
+   "by_year": {
+    "2026": 3
+   },
+   "by_journal": {
+    "Nature": 3
+   }
+  },
+  {
+   "school": "西南财经大学",
+   "calA_strict": 2,
+   "calB_firstall": 2,
+   "calC_firstcorr": 3,
+   "by_year": {
+    "2023": 2,
+    "2024": 1
+   },
+   "by_journal": {
+    "Nature": 2,
+    "Science": 1
+   }
+  },
+  {
+   "school": "长安大学",
+   "calA_strict": 3,
+   "calB_firstall": 3,
+   "calC_firstcorr": 3,
+   "by_year": {
+    "2022": 1,
+    "2026": 2
+   },
+   "by_journal": {
+    "Nature": 3
+   }
+  },
+  {
+   "school": "中国地质大学(北京)",
+   "calA_strict": 0,
+   "calB_firstall": 3,
+   "calC_firstcorr": 3,
+   "by_year": {
+    "2025": 2,
+    "2026": 1
+   },
+   "by_journal": {
+    "Science": 3
+   }
+  },
+  {
+   "school": "北京交通大学",
+   "calA_strict": 0,
+   "calB_firstall": 1,
+   "calC_firstcorr": 2,
+   "by_year": {
+    "2024": 1,
+    "2026": 1
+   },
+   "by_journal": {
+    "Nature": 2
+   }
+  },
+  {
+   "school": "北京邮电大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 2,
+   "by_year": {
+    "2025": 1,
+    "2026": 1
+   },
+   "by_journal": {
+    "Science": 2
+   }
+  },
+  {
+   "school": "中央财经大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 2,
+   "by_year": {
+    "2026": 2
+   },
+   "by_journal": {
+    "Science": 1,
+    "Nature": 1
+   }
+  },
+  {
+   "school": "东北大学",
+   "calA_strict": 2,
+   "calB_firstall": 2,
+   "calC_firstcorr": 2,
+   "by_year": {
+    "2023": 2
+   },
+   "by_journal": {
+    "Nature": 1,
+    "Science": 1
+   }
+  },
+  {
+   "school": "东北师范大学",
+   "calA_strict": 1,
+   "calB_firstall": 1,
+   "calC_firstcorr": 2,
+   "by_year": {
+    "2024": 1,
+    "2026": 1
+   },
+   "by_journal": {
+    "Science": 2
+   }
+  },
+  {
+   "school": "东北农业大学",
+   "calA_strict": 1,
+   "calB_firstall": 2,
+   "calC_firstcorr": 2,
+   "by_year": {
+    "2026": 1,
+    "2022": 1
+   },
+   "by_journal": {
+    "Nature": 1,
+    "Science": 1
+   }
+  },
+  {
+   "school": "东华大学",
+   "calA_strict": 0,
+   "calB_firstall": 1,
+   "calC_firstcorr": 2,
+   "by_year": {
+    "2024": 1,
+    "2025": 1
+   },
+   "by_journal": {
+    "Science": 1,
+    "Nature": 1
+   }
+  },
+  {
+   "school": "上海海洋大学",
+   "calA_strict": 1,
+   "calB_firstall": 2,
+   "calC_firstcorr": 2,
+   "by_year": {
+    "2025": 2
+   },
+   "by_journal": {
+    "Cell": 1,
+    "Nature": 1
+   }
+  },
+  {
+   "school": "南京邮电大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 2,
+   "by_year": {
+    "2022": 1,
+    "2026": 1
+   },
+   "by_journal": {
+    "Nature": 1,
+    "Cell": 1
+   }
+  },
+  {
+   "school": "湘潭大学",
+   "calA_strict": 1,
+   "calB_firstall": 1,
+   "calC_firstcorr": 2,
+   "by_year": {
+    "2024": 1,
+    "2023": 1
+   },
+   "by_journal": {
+    "Nature": 2
+   }
+  },
+  {
+   "school": "广州中医药大学",
+   "calA_strict": 1,
+   "calB_firstall": 1,
+   "calC_firstcorr": 2,
+   "by_year": {
+    "2026": 2
+   },
+   "by_journal": {
+    "Cell": 2
+   }
+  },
+  {
+   "school": "成都中医药大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 2,
+   "by_year": {
+    "2026": 2
+   },
+   "by_journal": {
+    "Cell": 2
+   }
+  },
+  {
+   "school": "西安电子科技大学",
+   "calA_strict": 1,
+   "calB_firstall": 1,
+   "calC_firstcorr": 2,
+   "by_year": {
+    "2025": 1,
+    "2026": 1
+   },
+   "by_journal": {
+    "Science": 2
+   }
+  },
+  {
+   "school": "青海大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 2,
+   "by_year": {
+    "2023": 1,
+    "2026": 1
+   },
+   "by_journal": {
+    "Science": 2
+   }
+  },
+  {
+   "school": "宁夏大学",
+   "calA_strict": 0,
+   "calB_firstall": 1,
+   "calC_firstcorr": 2,
+   "by_year": {
+    "2023": 1,
+    "2025": 1
+   },
+   "by_journal": {
+    "Science": 2
+   }
+  },
+  {
+   "school": "石河子大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 2,
+   "by_year": {
+    "2026": 2
+   },
+   "by_journal": {
+    "Cell": 2
+   }
+  },
+  {
+   "school": "宁波大学",
+   "calA_strict": 1,
+   "calB_firstall": 1,
+   "calC_firstcorr": 2,
+   "by_year": {
+    "2026": 2
+   },
+   "by_journal": {
+    "Nature": 1,
+    "Science": 1
+   }
+  },
+  {
+   "school": "对外经济贸易大学",
+   "calA_strict": 1,
+   "calB_firstall": 1,
+   "calC_firstcorr": 1,
+   "by_year": {
+    "2026": 1
+   },
+   "by_journal": {
+    "Science": 1
+   }
+  },
+  {
+   "school": "北京体育大学",
+   "calA_strict": 1,
+   "calB_firstall": 1,
+   "calC_firstcorr": 1,
+   "by_year": {
+    "2024": 1
+   },
+   "by_journal": {
+    "Nature": 1
+   }
+  },
+  {
+   "school": "太原理工大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 1,
+   "by_year": {
+    "2026": 1
+   },
+   "by_journal": {
+    "Nature": 1
+   }
+  },
+  {
+   "school": "延边大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 1,
+   "by_year": {
+    "2026": 1
+   },
+   "by_journal": {
+    "Nature": 1
+   }
+  },
+  {
+   "school": "中国矿业大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 1,
+   "by_year": {
+    "2025": 1
+   },
+   "by_journal": {
+    "Nature": 1
+   }
+  },
+  {
+   "school": "西南交通大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 1,
+   "by_year": {
+    "2025": 1
+   },
+   "by_journal": {
+    "Science": 1
+   }
+  },
+  {
+   "school": "中国石油大学(北京)",
+   "calA_strict": 1,
+   "calB_firstall": 1,
+   "calC_firstcorr": 1,
+   "by_year": {
+    "2026": 1
+   },
+   "by_journal": {
+    "Nature": 1
+   }
+  },
+  {
+   "school": "北京中医药大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "北京外国语大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "中国传媒大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "外交学院",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "中国人民公安大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "中央音乐学院",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "中国音乐学院",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "中央美术学院",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "中央戏剧学院",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "中央民族大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "中国政法大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "天津工业大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "天津中医药大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "大连海事大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "哈尔滨工程大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "上海外国语大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "上海财经大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "上海体育大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "上海音乐学院",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "江南大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "中国美术学院",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "中国石油大学(华东)",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "中南财经政法大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "西南石油大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "西藏大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "新疆大学",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  },
+  {
+   "school": "中国矿业大学(北京)",
+   "calA_strict": 0,
+   "calB_firstall": 0,
+   "calC_firstcorr": 0,
+   "by_year": {},
+   "by_journal": {}
+  }
+ ],
+ "zero_schools": [
+  "北京中医药大学",
+  "北京外国语大学",
+  "中国传媒大学",
+  "外交学院",
+  "中国人民公安大学",
+  "中央音乐学院",
+  "中国音乐学院",
+  "中央美术学院",
+  "中央戏剧学院",
+  "中央民族大学",
+  "中国政法大学",
+  "天津工业大学",
+  "天津中医药大学",
+  "大连海事大学",
+  "哈尔滨工程大学",
+  "上海外国语大学",
+  "上海财经大学",
+  "上海体育大学",
+  "上海音乐学院",
+  "江南大学",
+  "中国美术学院",
+  "中国石油大学(华东)",
+  "中南财经政法大学",
+  "西南石油大学",
+  "西藏大学",
+  "新疆大学",
+  "中国矿业大学(北京)"
+ ],
+ "nonzero_count": 120,
+ "zero_count": 27
+}
