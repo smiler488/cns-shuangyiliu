@@ -2,6 +2,7 @@
 
 English | [中文](README.zh-CN.md)
 
+[![CI](https://github.com/smiler488/cns-shuangyiliu/actions/workflows/test.yml/badge.svg)](https://github.com/smiler488/cns-shuangyiliu/actions/workflows/test.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Python 3.8+](https://img.shields.io/badge/Python_3.8%2B-informational)
 Counts of Cell, Nature and Science research articles per university for China's 147 "Double First-Class" (双一流) universities, from 14 February 2022 to 3 November 2026. The repository has the raw OpenAlex records, the institution mapping, the scripts and the results, so every number can be recomputed or recounted with a different rule.
 
 Of 3,166 CNS articles with at least one Chinese institution in this window, 120 of the 147 universities have at least one paper as first unit and 27 have none. I wrote this up in a WeChat article (《双一流CNS发文统计：120所发文、27所挂零》, account @smiler488) and put the data here so that readers can check it.

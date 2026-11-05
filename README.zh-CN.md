@@ -2,6 +2,7 @@
 
 [English](README.md) | 中文
 
+[![CI](https://github.com/smiler488/cns-shuangyiliu/actions/workflows/test.yml/badge.svg)](https://github.com/smiler488/cns-shuangyiliu/actions/workflows/test.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Python 3.8+](https://img.shields.io/badge/Python_3.8%2B-informational)
 统计 147 所"双一流"高校在 2022-02-14 至 2026-11-03 期间以第一单位发表的 Cell / Nature / Science（CNS）研究论文。仓库里有 OpenAlex 原始记录、机构映射、脚本和统计结果，每个数字都能复算，也能换一种口径重新统计。
 
 在这个时间窗口内，有中国机构参与的 CNS 论文共 3166 篇。147 所双一流高校里，120 所至少有一篇第一单位论文，27 所为零。相关分析写在公众号文章《双一流CNS发文统计：120所发文、27所挂零》（@smiler488）里，数据放在这里供读者核对。
