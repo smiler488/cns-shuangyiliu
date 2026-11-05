@@ -1,53 +1,81 @@
 # cns-shuangyiliu
 
-147 所双一流高校 CNS（Cell / Nature / Science）第一单位发文统计：数据、脚本与结果。2022-02-14 至 2026-11-03，经 OpenAlex API 抓取，共 3166 篇有中国机构参与的 CNS 论文。
+English | [中文](README.zh-CN.md)
 
-配套公众号文章：《双一流CNS发文统计：120所发文、27所挂零》（微信公众号 @smiler488）。
+Counts of Cell, Nature and Science research articles per university for China's 147 "Double First-Class" (双一流) universities, from 14 February 2022 to 3 November 2026. The repository has the raw OpenAlex records, the institution mapping, the scripts and the results, so every number can be recomputed or recounted with a different rule.
 
-## 一句话使用（给 AI）
+Of 3,166 CNS articles with at least one Chinese institution in this window, 120 of the 147 universities have at least one paper as first unit and 27 have none. I wrote this up in a WeChat article (《双一流CNS发文统计：120所发文、27所挂零》, account @smiler488) and put the data here so that readers can check it.
 
-把下面这句发给你在用的 AI 助手，它就知道怎么查用本仓库的数据：
+## Ask an AI assistant
+
+Paste this into an assistant that can read web pages:
 
 ```text
-请根据 https://raw.githubusercontent.com/smiler488/cns-shuangyiliu/main/install.md，使用 cns-shuangyiliu 的统计数据回答问题。
+Please follow https://raw.githubusercontent.com/smiler488/cns-shuangyiliu/main/install.md and use the cns-shuangyiliu data to answer my question.
 ```
 
-## 目录
+## Contents
 
-- `data/works_cns.jsonl` — 抓取的论文数据（slim JSONL：一作机构信息 + 通讯作者标记）
-- `data/school_openalex_map.json` — 147 所双一流高校 → OpenAlex 机构 ID 映射
-- `data/shuangyiliu_147.txt` — 147 所高校名单
-- `data/cns_result.json` — 统计结果（各校发文计数 + 零发表名单）
-- `scripts/fetch_cns.py` — 抓取（需 `OPENALEX_API_KEY` 环境变量，可选；不设则走较低礼貌池速率）
-- `scripts/map_institutions.py` — 高校名 → OpenAlex 机构 ID 映射（含附属医院归并到母校）
-- `scripts/analyze_cns.py` — 统计分析
+| Path | What it is |
+|---|---|
+| `data/works_cns.jsonl` | one line per article: DOI, title, date, journal, first-author institutions, corresponding-author institution IDs |
+| `data/school_openalex_map.json` | the 147 universities and their OpenAlex institution candidates |
+| `data/shuangyiliu_147.txt` | list of the 147 universities (Ministry of Education, 2022) |
+| `data/cns_result.json` | counts per university under three rules, by year and journal, plus the zero list |
+| `scripts/map_institutions.py` | builds the institution mapping |
+| `scripts/fetch_cns.py` | downloads the articles from OpenAlex |
+| `scripts/analyze_cns.py` | counts and writes `cns_result.json` |
 
-## 口径
+## Counting rules
 
-- **主表口径（一作 + 通讯）**：第一作者机构与通讯作者机构的并集（高绩/青塔通行做法）
-- **严格口径**：仅第一作者的第一署名机构（另列，用于揭示"国科大计数陷阱"等口径差异）
-- **一作全口径**：第一作者的全部机构
+- **C, first author + corresponding author** (main table): a university counts a paper if it appears among the first author's institutions or the corresponding authors' institutions. Chinese ranking reports usually use this rule.
+- **A, strict**: only the first author's first-listed institution.
+- **B, first author, all institutions**: any institution of the first author.
 
-时间窗口、期刊口径、机构归并规则均可在脚本里改，重新跑一遍即可复算。
+Rankings differ between rules. The University of Chinese Academy of Sciences, for example, has 365 papers under C but 2 under A, because its authors usually list a CAS institute first. Always say which rule a number comes from.
 
-## 复现
+Affiliated hospitals are counted for their parent university (`HOSPITAL_PARENT` in `analyze_cns.py`). CAS institutes are not counted for any university.
 
-```sh
-pip install requests
-python scripts/map_institutions.py   # 重建机构映射（可选，data/ 已含结果）
-python scripts/fetch_cns.py          # 重新抓取（可选，data/ 已含数据）
-python scripts/analyze_cns.py        # 重算统计
+## Reproduce
+
+```bash
+pip install -r requirements.txt
+python scripts/analyze_cns.py            # recount from data/ (no network)
+python scripts/map_institutions.py       # optional: rebuild the mapping
+python scripts/fetch_cns.py              # optional: download again (set OPENALEX_EMAIL)
 ```
 
-交叉验证：Top20 排名与高绩 2024 年鉴、青塔 2026 报告一致。
+`analyze_cns.py` reproduces the published `cns_result.json` byte for byte.
 
-## 数据来源
+## Known caveat: the Center for Life Sciences
 
-- [OpenAlex](https://openalex.org)（论文与机构元数据，CC0）
-- 教育部第二轮"双一流"建设高校及建设学科名单（教研函〔2022〕1 号）
+OpenAlex has an institution called "Center for Life Sciences", the joint centre of Peking University and Tsinghua University. The name matching assigns it to Tsinghua, and the published numbers include that. The centre is shared, so the choice matters:
 
-统计结果按"数据 + 代码开源、口径可复算"原则发布；引用时请注明口径与时间窗口。
+| `--cls` | Tsinghua A / C | Peking University A / C |
+|---|---|---|
+| `tsinghua` (published) | 98 / 293 | 150 / 251 |
+| `none` | 55 / 259 | 150 / 251 |
+| `both` | 98 / 293 | 193 / 296 |
+
+Run `python scripts/analyze_cns.py --cls none --out other.json` to get the alternative counts. No other university changes.
+
+## Other limits
+
+- OpenAlex affiliation parsing is not perfect. Missing or wrong affiliations go straight into the counts.
+- For corresponding authors, the 2026 data file stores only institution IDs. A hospital that is not in the ID map is therefore missed on the corresponding-author side. New downloads store names as well.
+- Paper counts say nothing about the quality of a discipline. Please do not use them that way.
+
+Cross-check: the top 20 under rule C agree with the 2024 Gaoji yearbook and the 2026 Qingta report.
+
+## Sources
+
+- [OpenAlex](https://openalex.org) (CC0)
+- Ministry of Education list of the second round of Double First-Class universities (教研函〔2022〕1号)
+
+## Citation
+
+See [`CITATION.cff`](CITATION.cff). Please quote the counting rule and the time window with any number.
 
 ## License
 
-MIT © smiler488
+Code and derived data: MIT, see [LICENSE](LICENSE). OpenAlex records are CC0. Liangchao Deng (邓良超).

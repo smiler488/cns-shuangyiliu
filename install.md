@@ -19,4 +19,9 @@
    - 统计结论只对本数据集的口径和时间窗口负责；不同口径、不同时间窗口的排名不可混引。
    - 附属医院已归并到母校（见 `scripts/analyze_cns.py` 归并表）；引用细节时说明。
    - 不要把"发文数"直接等同于"学科实力"；下结论前把口径差异摆在前面。
-   - 需要复算/改口径：运行 `scripts/analyze_cns.py`（步骤见 README），不要凭记忆改数字。
+   - 需要复算/改口径：运行 `python scripts/analyze_cns.py`（不联网，几秒钟），不要凭记忆改数字。
+   - 清华、北大的数字受"北大-清华生命科学联合中心"归属影响：已发布结果把它算给清华；`--cls none` 不归属、`--cls both` 两校都计。回答清华或北大相关问题时要说明这一点（详见 README）。
+
+## English summary
+
+Data on Cell / Nature / Science papers of China's 147 Double First-Class universities (2022-02-14 to 2026-11-03, OpenAlex). Use `data/cns_result.json` for counts. Always name the counting rule: `calC_firstcorr` (first + corresponding author, main table), `calA_strict` (first author's first institution) or `calB_firstall`. Tsinghua and Peking University numbers depend on how the joint Center for Life Sciences is attributed; see the README section on `--cls`.

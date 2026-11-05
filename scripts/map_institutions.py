@@ -1,10 +1,22 @@
 # -*- coding: utf-8 -*-
-"""Map 147 Double First-Class universities to OpenAlex institution IDs."""
-import json, os, time, sys, requests
+"""Look up OpenAlex institution IDs for the 147 Double First-Class universities.
+
+Writes data/school_openalex_map.json with the top three candidates per
+school. analyze_cns.py uses the first candidate, so check the file by eye
+after a rebuild; OVERRIDES fixes names the search gets wrong.
+
+Liangchao Deng (邓良超), MIT License
+"""
+import json
+import time
+from pathlib import Path
+
+import requests
 
 API = "https://api.openalex.org/institutions"
-SCHOOLS_FILE = r"C:\Users\micro\OneDrive\WechatOfficial\downloads\cns_stats\shuangyiliu_147.txt"
-OUT = r"C:\Users\micro\OneDrive\WechatOfficial\downloads\cns_stats\school_openalex_map.json"
+DATA = Path(__file__).resolve().parent.parent / "data"
+SCHOOLS_FILE = DATA / "shuangyiliu_147.txt"
+OUT = DATA / "school_openalex_map.json"
 
 # Manual search-term overrides for tricky names
 OVERRIDES = {
