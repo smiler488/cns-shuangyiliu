@@ -1,16 +1,36 @@
 # -*- coding: utf-8 -*-
-"""Analyze fetched CNS works: count per-school first-unit papers, build zero-list.
+"""Count CNS papers per Double First-Class university and list the zero-paper schools.
 
-Calibers:
-  A (strict):  first author's FIRST-listed institution
-  B (first-all): all institutions of the first author
-  C (first+corr): union of first-author and corresponding-author institutions
+Calibers
+  A (strict):     first author's first-listed institution
+  B (first-all):  all institutions of the first author
+  C (first+corr): union of B and the corresponding authors' institutions
+
+Institutions are matched to schools by OpenAlex ID first, then by name
+against HOSPITAL_PARENT (affiliated hospitals are counted for their parent
+university).
+
+--cls decides who gets the OpenAlex institution "Center for Life Sciences"
+(the Peking University-Tsinghua University joint centre):
+  tsinghua  Tsinghua only (default; this is what the published numbers use)
+  none      nobody
+  both      Peking University and Tsinghua University
+With --cls none, Tsinghua drops from 98 to 55 (A) and from 293 to 259 (C);
+Peking University is unchanged.
+
+Usage:  python scripts/analyze_cns.py [--cls tsinghua|none|both] [--out FILE]
+
+Liangchao Deng (邓良超), MIT License
 """
-import json, os, collections, re, sys
+import argparse
+import collections
+import json
+from pathlib import Path
 
-WORKS = r"C:\Users\micro\OneDrive\WechatOfficial\downloads\cns_stats\works_cns.jsonl"
-MAPF = r"C:\Users\micro\OneDrive\WechatOfficial\downloads\cns_stats\school_openalex_map.json"
-OUTDIR = r"C:\Users\micro\OneDrive\WechatOfficial\downloads\cns_stats"
+DATA = Path(__file__).resolve().parent.parent / "data"
+WORKS = DATA / "works_cns.jsonl"
+MAPF = DATA / "school_openalex_map.json"
+OUTDIR = DATA
 
 # hospital -> parent university (manually curated for major affiliated hospitals)
 HOSPITAL_PARENT = {
@@ -122,7 +142,22 @@ def load_schools():
             schools[name] = cands[0]["id"]
     return schools
 
-def main():
+CLS_NAME = "Center for Life Sciences"
+CLS_POLICY = {
+    "tsinghua": {"清华大学"},
+    "none": set(),
+    "both": {"清华大学", "北京大学"},
+}
+
+
+def main(argv=None):
+    ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
+    ap.add_argument("--cls", choices=sorted(CLS_POLICY), default="tsinghua",
+                    help="attribution of the PKU-Tsinghua Center for Life Sciences (default: tsinghua)")
+    ap.add_argument("--out", default=str(OUTDIR / "cns_result.json"), help="result JSON")
+    args = ap.parse_args(argv)
+    cls_schools = CLS_POLICY[args.cls]
+
     id2school = {}
     for name, oid in load_schools().items():
         id2school[oid] = name
@@ -136,18 +171,22 @@ def main():
     calC = collections.Counter()  # first + corr union
     per_year = collections.defaultdict(collections.Counter)  # calC per year
     per_journal = collections.defaultdict(collections.Counter)
-    zero_evidence = {}  # school -> list of works (for appendix)
 
     def resolve(inst_name, inst_id):
-        """Map an institution to a 双一流 school name or None."""
+        """Set of 双一流 schools an institution counts for (usually 0 or 1)."""
         if inst_id in id2school:
-            return id2school[inst_id]
-        # try fuzzy hospital match
+            return {id2school[inst_id]}
+        if inst_name == CLS_NAME:
+            return set(cls_schools)
         if inst_name:
+            # Name match in both directions: OpenAlex often lists a hospital
+            # without its university ("Huashan Hospital"), so a short name
+            # contained in a curated key also counts.
+            low = inst_name.lower()
             for hname, parent in HOSPITAL_PARENT.items():
-                if hname.lower() in (inst_name or "").lower() or (inst_name or "").lower() in hname.lower():
-                    return parent
-        return None
+                if hname.lower() in low or low in hname.lower():
+                    return {parent} if parent else set()
+        return set()
 
     for w in works:
         year = w.get("pub", "")[:4]
@@ -162,29 +201,22 @@ def main():
         # Caliber A: first listed first-author inst
         if first_insts:
             iid, iname = first_insts[0]
-            s = resolve(iname, iid)
-            if s:
-                schools_A.add(s)
+            schools_A |= resolve(iname, iid)
 
         # Caliber B: all first-author insts
         for iid, iname in first_insts:
-            s = resolve(iname, iid)
-            if s:
-                schools_B.add(s)
+            schools_B |= resolve(iname, iid)
 
         # Caliber C: first + corr
         schools_C = set(schools_B)
-        # corr insts: we only have IDs, need names; approximate via id2school direct
+        # Corresponding-author institutions: older data files store IDs only,
+        # so a name is looked up in corr_insts (newer fetches) or first_insts.
+        names = {iid: iname for iid, iname in (w.get("corr_insts") or []) + first_insts}
         for cid in corr_ids:
             if cid in id2school:
                 schools_C.add(id2school[cid])
-            else:
-                # try to find name in first_insts
-                for iid, iname in first_insts:
-                    if iid == cid:
-                        s = resolve(iname, iid)
-                        if s:
-                            schools_C.add(s)
+            elif cid in names:
+                schools_C |= resolve(names[cid], cid)
 
         for s in schools_A:
             calA[s] += 1
@@ -219,7 +251,8 @@ def main():
         "zero_schools": zero,
         "nonzero_count": len(nonzero),
         "zero_count": len(zero),
-    }, open(f"{OUTDIR}/cns_result.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    }, open(args.out, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print(f"saved {args.out} (--cls {args.cls})")
 
     # Print summary
     print(f"\n=== {len(nonzero)} 双一流有CNS第一单位论文, {len(zero)} 所零发表 ===\n")

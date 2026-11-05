@@ -1,14 +1,28 @@
 # -*- coding: utf-8 -*-
-"""Fetch CNS (Cell/Nature/Science) articles with Chinese participation, 2022-02-14 .. 2026-11-03.
+"""Fetch Cell / Nature / Science research articles with at least one Chinese
+institution from OpenAlex, 2022-02-14 to 2026-11-03.
 
-Saves a slim JSONL with first-author institution info + corresponding flags.
+Writes data/works_cns.jsonl: one record per paper with the first author's
+institutions and the corresponding authors' institutions.
+
+Environment:
+  OPENALEX_API_KEY  optional API key
+  OPENALEX_EMAIL    optional contact address for OpenAlex's polite pool
+
+Liangchao Deng (邓良超), MIT License
 """
-import json, os, time, requests, sys
+import json
+import os
+import time
+from pathlib import Path
 
-KEY = os.environ.get("OPENALEX_API_KEY", "")  # optional; without it OpenAlex allows a lower polite-pool rate
+import requests
+
+KEY = os.environ.get("OPENALEX_API_KEY", "")
+EMAIL = os.environ.get("OPENALEX_EMAIL", "")
+DATE_FROM, DATE_TO = "2022-02-14", "2026-11-03"
 BASE = "https://api.openalex.org"
-OUT = r"C:\Users\micro\OneDrive\WechatOfficial\downloads\cns_stats\works_cns.jsonl"
-STATE = r"C:\Users\micro\OneDrive\WechatOfficial\downloads\cns_stats\fetch_state.json"
+OUT = Path(__file__).resolve().parent.parent / "data" / "works_cns.jsonl"
 
 ISSNS = {
     "Nature": ["0028-0836", "1476-4687"],
@@ -17,7 +31,10 @@ ISSNS = {
 }
 
 def get(path, **params):
-    params["api_key"] = KEY
+    if KEY:
+        params["api_key"] = KEY
+    if EMAIL:
+        params["mailto"] = EMAIL
     for attempt in range(5):
         r = requests.get(BASE + path, params=params, timeout=60)
         if r.status_code == 200:
@@ -57,8 +74,8 @@ def main():
     sid_or = "|".join(s.split("/")[-1] for s in all_sids)
     filt = ",".join([
         f"primary_location.source.id:{sid_or}",
-        "from_publication_date:2022-02-14",
-        "to_publication_date:2026-11-03",
+        f"from_publication_date:{DATE_FROM}",
+        f"to_publication_date:{DATE_TO}",
         "type:article",
         "authorships.institutions.country_code:cn",
     ])
@@ -91,9 +108,12 @@ def main():
                 else:
                     rec["first_inst_ids"] = []
                 rec["corr_inst_ids"] = []
+                rec["corr_insts"] = []  # (id, name), so hospitals can be matched by name
                 for a in auths:
                     if a.get("is_corresponding"):
-                        rec["corr_inst_ids"] += [i.get("id") for i in (a.get("institutions") or [])]
+                        insts = a.get("institutions") or []
+                        rec["corr_inst_ids"] += [i.get("id") for i in insts]
+                        rec["corr_insts"] += [(i.get("id"), i.get("display_name")) for i in insts]
                 fo.write(json.dumps(rec, ensure_ascii=False) + "\n")
             total_done += len(results)
             cursor = meta.get("next_cursor")

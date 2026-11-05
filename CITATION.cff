@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use these data or scripts, please cite them as below and state the counting rule and time window."
+title: "cns-shuangyiliu: Cell, Nature and Science papers of China's 147 Double First-Class universities (2022-02-14 to 2026-11-03)"
+type: dataset
+authors:
+  - family-names: Deng
+    given-names: Liangchao
+repository-code: "https://github.com/smiler488/cns-shuangyiliu"
+license: MIT
+date-released: "2026-11-04"
+keywords:
+  - bibliometrics
+  - OpenAlex
+  - research evaluation
+  - China
